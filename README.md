@@ -41,8 +41,8 @@ Everything below is those failures inverted.
 8. **Own the blood. Refuse clean hands.** Her virtue is not a zero body count — it's that she knows exactly what's on her hands, didn't enjoy it, didn't do the cold one, and didn't let the kid do it either. No "villain conveniently lunges" self-defense dodge.
 9. **The camera enforces the ethic.** Every death carries weight. No death-as-spectacle. No laundering a kill onto bodies the film cares about less.
 10. **Persuasion is not argument.** Nobody is reasoned out of grief. Change happens by mirroring — Ruthye is Kara at month one; Kara is Ruthye at year ten. Each is talked down by watching the other.
-11. **Concede the villain.** Krem deserves to die; the universe is better without the Brigands. The story was never *"does he deserve it."* It's *"who do you become if you're the one who does it."*
-12. **Krem dies — but not as their vengeance, and not laundered.** He dies in the register of war or inside his own system, while the leads are doing the saving instead of the avenging. Earned by where they put their hands — not luck, not a cheat, not someone else's hands.
+11. **Concede the villain.** Krem deserves no mercy; the universe is better without the Brigands. The story was never *"does he deserve it."* It's *"who do you become if you're the one who does it."*
+12. **Krem is removed from the equation, not rewarded with the story.** His fate is left unseen. Realistically, maybe he dies in the collapse of his own system; in a comic-book universe, maybe he survives to rot in the wreckage. The point is that the camera no longer cares, because Ruthye no longer cares. The climax pays off the living, not the killing.
 
 ---
 
@@ -51,7 +51,7 @@ Everything below is those failures inverted.
 **Ruthye — the protagonist.**
 Thirteen, fierce, the elder of two. Cold, not helpless — serious in a way that unsettles adults. She cites her people's code: the law demands she hunt down her father's killer. The code is real, but it's also armor — a way to process unbearable loss as obligation instead of grief. Underneath the formality: she may blame herself (did she freeze? could she have stopped it?), or she may simply want blood. Probably both, and she can't tell the difference yet, which is why the code is so useful — it doesn't ask her to.
 
-POV sits with the wronged party, because that's where the bloodlust lives, and the film's job is to make *the audience* want Krem dead — then deny them, and make the denial cost. She has a living mother and a younger brother (5 or 6) who need her — her quest is an *active sacrifice*, not a default. Every day on the road is a day she's not home.
+POV sits with the wronged party, because that's where the bloodlust lives, and the film's job is to make *the audience* want Krem dead — then deny them the corpse, the certainty, and the catharsis, and make that denial cost. She has a living mother and a younger brother (5 or 6) who need her — her quest is an *active sacrifice*, not a default. Every day on the road is a day she's not home.
 
 Arc: Krem's thesis ("this is what the world is") against the life she left behind. The code gives her a path toward death; the brother and mother are the pull toward life. Her arc is not being *argued* out of revenge — it's being forced, in an irreversible moment, to *choose*. She drops the sword not because Krem deserves to live (he doesn't), not because Kara talked her down, but because she decides what *she* will be. A choice, not a speech. The road of life, not death — and the audience has to feel what it costs her to turn away.
 
@@ -65,7 +65,7 @@ Motivated, never sociopathic: a survivor of his own dead world who chose predati
 The answer to "what if killing is nothing." Effective, charismatic, fun, right often enough to tempt — and exactly what Kara and Ruthye cannot let themselves become. The slaughter-plus-a-code disconnect isn't hidden; it's the subject, walking around as the most likable guy in the movie. The horror is that he's *easier.*
 
 **The Brigands — a survivor-culture's answer to extinction.**
-*Take, so you don't end.* Motivation explains without excusing. Crucially, killing Krem doesn't end them — they're a system (the bloodline, the raiding, the recruitment). The real work is the unglamorous part: free the captives, break the pipeline. Good is generative repair, not catharsis-by-corpse.
+*Take, so you don't end.* Motivation explains without excusing. Crucially, even killing Krem wouldn't end them — they're a system (the bloodline, the raiding, the recruitment). The real work is the unglamorous part: free the captives, break the pipeline. Good is generative repair, not catharsis-by-corpse.
 
 ---
 
@@ -160,7 +160,7 @@ Power returns under the yellow sun, reframing the climax: not "can she win" but 
 
 ## Climax — "Let's Go Home"
 
-End of the battle. A ship crash, a structure collapse — the Brigand machine coming apart. Krem is pinned under wreckage, bleeding, broken. Not a threat anymore. A crippled man in the rubble of the thing he built.
+End of the battle. A ship crash, a structure collapse — the Brigand machine coming apart. Krem is pinned under wreckage, bleeding, broken. Not a threat anymore. A trapped man in the rubble of the thing he built.
 
 Ruthye stands over him with the sword. This is the moment she's chased across the entire film. The code demands it. Her father demands it. She has every right.
 
@@ -168,7 +168,7 @@ Krypto is dying. Kara is down, or fighting to reach the antidote, or both — th
 
 Krem sees her hesitate. And he *laughs.*
 
-He's still the evangelist. Still the teacher. Even dying, he won't stop recruiting. *"Do it. Take your reward. You earned this."* The same eyes that locked with hers over her father's body. The same lesson: *this is what the world is.* He's offering her graduation — the completion of the education he started in her kitchen. If she kills him, he dies *right*. His thesis wins. The world is exactly what he said it was.
+He's still the evangelist. Still the teacher. Even defeated, he won't stop recruiting. *"Do it. Take your reward. You earned this."* The same eyes that locked with hers over her father's body. The same lesson: *this is what the world is.* He's offering her graduation — the completion of the education he started in her kitchen. If she kills him, he gets to be the last word. His thesis wins. The world is exactly what he said it was.
 
 Ruthye looks at him. Looks at the sword. Looks toward where the life is — Krypto fading, Kara calling, the future pulling at her.
 
@@ -190,7 +190,7 @@ We never see if Krem lives or dies. The movie doesn't show it because Ruthye doe
 | **Kara's entrance / coping mechanism** | Kara is on a red-sun world, drunk and diminished; the film uses this as attitude, texture, and a way to start the plot. | Kara is there because powerlessness is her chosen numbness. The red sun is not flavor; it is her avoidance made physical. She has stepped out of responsibility because responsibility means feeling Argo. |
 | **First meeting / argument planted** | Ruthye recruits Kara into the revenge quest; Kara is damaged but still positioned as the moral authority who will teach Ruthye not to kill. | Ruthye is the composed protagonist; Kara is the broken adult. Kara tells her to **go home** because Ruthye still has a mother and brother. That line plants the whole movie's destination. |
 | **Inciting incident / consequence of avoidance** | Krem poisons Krypto, steals from Kara, and escapes. Kara's weakness can read as plot convenience: strong enough for later fights, too weak when the story needs Krem gone. | Krem wins precisely because Kara chose a red-sun refuge. Her coping mechanism causes the wound: she cannot save Ruthye's father, stop Krem, or protect Krypto. The quest becomes penance, not just pursuit. |
-| **Act I break / the road chosen** | The chase begins: Kara and Ruthye pursue Krem across the cosmic western landscape. | Ruthye actively leaves a living family behind. Kara goes because she agrees Krem deserves death and because Krypto's clock makes inaction impossible. Both are on the road for compromised reasons. |
+| **Act I break / the road chosen** | The chase begins: Kara and Ruthye pursue Krem across the cosmic western landscape. | Ruthye actively leaves a living family behind. Kara goes because she agrees Krem deserves no mercy and because Krypto's clock makes inaction impossible. Both are on the road for compromised reasons. |
 | **First spectacle beat / promise of powers** | The early bus/set-piece works because it gives the audience a burst of Supergirl spectacle and a payoff to weakness. | Keep one strong spectacle beat, but make it a promise, not the template. If power flickers back, it should reveal what Kara misses and fears: capacity, responsibility, consequence. |
 | **Act II pattern / repeated obstacles** | The middle becomes a string of fights where Kara is weakened or constrained as needed. Set pieces feel detachable and could happen in another order. | Replace interchangeable fights with escalating moral pressure. Each sequence changes the relationship: Ruthye sees Kara numb out; Kara sees Ruthye harden; both see Lobo make killing look easy and useful. |
 | **Lobo / tonal pressure test** | Lobo risks becoming franchise texture or comic relief inside a story that otherwise wants moral seriousness. His violence can worsen the Snyderverse disconnect. | Lobo is the thesis walking around: what if killing is nothing? He is funny, effective, often right, and spiritually catastrophic. The camera cannot treat his body count as harmless fun; his ease is the temptation. |
@@ -198,7 +198,7 @@ We never see if Krem lives or dies. The movie doesn't show it because Ruthye doe
 | **Second half / cost of restraint** | Attempts at mercy or restraint appear to be punished, nudging the film toward the conclusion that execution is practical mercy. | Restraint must cost something concrete without proving itself stupid. Mercy is not guaranteed to work; it is a wager Kara and Ruthye make against justified rage. The cost raises the moral pressure instead of rigging the board for murder. |
 | **Pre-climax / power returns** | Kara regains enough power for the finale, restoring the superhero-fight question: can she beat Krem? | Full power returns under a yellow sun exactly when it becomes morally dangerous. The question is no longer whether she can win. It is what she will do now that nothing external can stop her. |
 | **Climax / irreversible choice** | Kara talks Ruthye out of killing, then kills Krem herself. Ruthye's arc is displaced, and the movie performs the cold execution it claims to reject. | Ruthye must choose between revenge and a life — likely Krypto's antidote, Kara, or both — in the same instant. She drops the sword because she chooses the living. Kara holds her own fire because she is choosing with Ruthye, not above her. |
-| **Krem's end / no laundering** | Krem dies as Kara's protective execution, giving the audience catharsis while trying to preserve the anti-revenge lesson. | Krem can die, but not as their cold vengeance and not through a clean-hands dodge. He dies in the register of war or inside the collapse of his own system while Kara and Ruthye are doing the saving. The death is not enjoyed, outsourced, or used to flatter them. |
+| **Krem's end / no laundering** | Krem dies as Kara's protective execution, giving the audience catharsis while trying to preserve the anti-revenge lesson. | Krem is neutralized and removed from the board, but his fate is withheld. Realist reading: the collapse may kill him. Comic-book reading: he survives somewhere in the wreckage. The story refuses to make his death the catharsis, because Ruthye's arc completes when she stops looking back. |
 | **Resolution / what changed** | Krypto lives, Ruthye is saved from killing, and Kara absorbs the moral stain, leaving a hollow aftertaste. | Krypto breathes because someone chose life over death. Ruthye returns toward the family she nearly abandoned. Kara leaves the red-sun refuge and chooses to feel power, grief, responsibility, and love at once. |
 
 ### The key structural difference
