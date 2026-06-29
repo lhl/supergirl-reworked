@@ -5,46 +5,50 @@
 
 ## North Star
 
-A coming-of-age story about **grief**, in which the hero must win an argument about **what it means to be good** — and must win it *for herself* as much as for the child she's trying to save.
+A coming-of-age story about **grief**, in which Kara (Supergirl) must win an argument about **what it means to be good** — and must win it *for herself* as much as for the child she's trying to save.
 
 The wonder and hope of *All-Star Superman*; the seasonal, small-scale melancholy of *For All Seasons*; the cosmic loneliness and lyricism of *Woman of Tomorrow* — set in a genuinely violent universe the story refuses to flinch from or launder.
 
-The thing being adapted is **not the plot**. It's the **thesis**: *goodness is not who you defeat, but what you refuse to become.*
+The thing being adapted is **not the plot**. It's the **thesis**: *in a world that can be cruel and unfair, hope, love, and caring (goodness, basically) is a choice you must actively make.*
 
 ---
 
-## Why the 2026 version misses (the diagnosis)
+## Why the 2026 movie misses
 
-It kept the comic's plot and inverted its thesis. Kara spends the film arguing that revenge is hollow and that killing is a line you can't return from — then coldly executes a disarmed Krem after talking Ruthye out of it. To make that land, the film rigged the board: maximized Krem into a sociopathic monster so the kill feels deserved, stacked the deck so restraint gets "punished," and dressed the execution as protective mercy. The result contradicts its own stated theme and reads as Snyderverse gravitas wearing a Gunn smile.
+It kept the comic's plot, but twists its thesis. Kara spends the film (halfheartedly) arguing that revenge is hollow and that killing is a line you can't return from , and then  coldly executes a disarmed Krem after talking Ruthye out of it.
 
-Structurally, it breaks six rules:
+We see she doesn't believe what she's saying, or that she views herself as so unfixably broken that it doesn't matter if she takes on more of the soul-killing (but she seems fine afterwards. It's ok, we the audience don't believe it either).
+
+To make that land, the film rigs the board: it's not enough for Krem to be a murderer - he's has to be a sociopathic monster - the leader of a multi-planetary genocidal society of rapists and child-slavers. Someone so heinous that the kill feels deserved, the only fitting solution and punishment for some otherwise unstoppable ongoing atrocity. The deck is stacked so that execution is a protective mercy, the only solution, the only question is who is going to deliver it. 
+
+The result contradicts its own stated theme and reads as Snyderverse gravitas wearing a Gunn smile.
+
+Thematically, this doesn't sit right, but structurally, the movie suffers as well:
 
 - **Power is a dial, not a rule** — strong enough for spectacle, conveniently weak when innocents die.
 - **The power math eats the drama** — Kara snaps between too weak and too strong, while Krem and the Brigands are either irrelevant next to her or implausibly strong enough to matter. The audience starts calculating instead of feeling.
-- **The set pieces are detachable** — nothing escalates, so it feels like it should have ended three fights earlier.
-- **Ruthye's change of heart is asserted, not dramatized** — she never makes the choice the story is about.
-- **Krem is a symbol, not a person** — no moral tension in killing a cartoon.
+- **The set pieces are detachable** — nothing escalates, so it feels like it should have ended three fights earlier. Honestly, save the pixels, who cares?
+- **Ruthye's change of heart is asserted, not dramatized** — she never makes the choice the story should be about.
+- **Krem is a symbol, not a person** — there's no moral tension in killing a cartoon.
 - **The camera loves the death the script condemns** — the core DCEU incoherence.
+- **What does Supergirl actually learn** — she has a change of heart about Earth at the end, but it's unclear why. A bit of murder as a reset?
 
-Everything below is those failures inverted.
+Let's see if we can fix this.
 
 ---
 
 ## The Rules
 
-1. **Power is a rule, never a dial.** Vulnerability obeys a law the world consistently honors. Red sunlight is not an instant off-switch; it drains her over time. The longer she stays, the weaker she gets — and the drunker she gets, the less well she can use what's left. Depowering is character, not a tension valve.
-2. **No power algebra.** The story should not ask the audience to solve whether Kara is 18%, 47%, or 100% Supergirl in a given scene. The rule is experiential and legible: under red light she has residue, not command; under yellow light she has capacity, and therefore moral danger. Krem and the Brigands are not "strong enough to fight Supergirl"; they are dangerous through timing, numbers, leverage, hostages, ships, and systems.
-3. **Her avoidance causes the tragedy.** Supergirl is weakened because she *chose* to hide on a red-sun world to stop feeling Argo — which is exactly why she can't save Ruthye's family or stop Krem. The inciting incident is her flaw. The quest is penance.
-4. **Power as a gradient tied to re-engagement.** Her power fades, flickers, and returns according to consistent solar logic and her willingness to re-enter the world. Through the middle, the "action" is endurance, improvisation, getting hurt, leaning on Ruthye — not spectacle.
+1. **No power math** Vulnerability obeys a law the world consistently honors. Red sunlight is not an instant off-switch; it drains her over time. The longer she stays, the weaker she gets — and the drunker she gets, the less well she can use what's left. Depowering is character, not a tension valve. However, the story should not ask the audience to solve whether Kara is 18%, 47%, or 100% Supergirl in a given scene. The rule is experiential and legible: under red light she has residue, not command; under yellow light she has capacity, and therefore moral danger. Krem and the Brigands are not "strong enough to fight Supergirl"; they are dangerous through timing, numbers, leverage, hostages, ships, and systems.
+2. **Callbacks, not repetition** If the story needs yo-yoing power levels (poison, green and yellow suns, convenient kryptonite), maybe it's just bad? Should we really have multiple times Ruthye sneaks on board? The repetitions in the movie should be thematic, not mechanical, that's just lazy. And boring.
+3. **Theme and Character arcs** What is the story actually about? I'd say overcoming with trauma. What is the actual conflict to be resolved from (Supergirl wanting to prevent Rhuthye from making a mistake she know she'll regret; needing to convince herself of the same, really, that there is life after tragedy). We need to see the characters grow.
+4. **The conflict is not fisticuffs** Supergirl is weakened because she *chose* to hide on a red-sun world to stop feeling Argo. We know that when she gets her powers back, any non-cosmic entity is done for. If she's not fighting gods, who can punch the hardest is not the point.
 5. **Every scene is load-bearing.** Each beat changes someone. Rising action toward one destination. No interchangeable brawls.
 6. **The climax is a choice, not a fight.** Full power returns precisely at the moral test. The question is never "can she win" — it's *"now that she can do anything, what will she choose?"* Power is the temptation, because power is the capacity to do harm.
 7. **Mercy must cost something concrete.** Restraint that costs nothing is a formality, not a choice. Make it expensive.
-8. **The real line is combat vs. execution — not kill vs. no-kill.** In a violent world, *never kill* is a lie no one could live. Killing to save (the heat) is not killing for vengeance (the cold). Kara can fight, can even kill in the chaos — she cannot coldly finish the helpless. The cold kill of a beaten enemy as the answer to grief is the one forbidden act.
-9. **Own the blood. Refuse clean hands.** Her virtue is not a zero body count — it's that she knows exactly what's on her hands, didn't enjoy it, didn't do the cold one, and didn't let the kid do it either. No "villain conveniently lunges" self-defense dodge.
-10. **The camera enforces the ethic.** Every death carries weight. No death-as-spectacle. No laundering a kill onto bodies the film cares about less.
-11. **Persuasion is not argument.** Nobody is reasoned out of grief. Change happens by mirroring — Ruthye is Kara at month one; Kara is Ruthye at year ten. Each is talked down by watching the other.
-12. **Concede the villain.** Krem deserves no mercy; the universe is better without the Brigands. The story was never *"does he deserve it."* It's *"who do you become if you're the one who does it."*
-13. **Krem is removed from the equation, not rewarded with the story.** His fate is left unseen. Realistically, maybe he dies in the collapse of his own system; in a comic-book universe, maybe he survives to rot in the wreckage. The point is that the camera no longer cares, because Ruthye no longer cares. The climax pays off the living, not the killing.
+8. **The real line is combat vs. execution — not kill vs. no-kill.** In a violent world, *never kill* is a lie no one could live. Killing to save (the heat) is not killing for vengeance (the cold). Kara or others can fight, can even kill in the chaos — she cannot coldly finish the helpless. The cold kill of a beaten enemy as the answer to grief is the one forbidden act.
+9. **It's not that kind of story** That being said, how much offhand violence you want is a choice. Yes, wanton violence exists in the world (universe), but is it core to a Supergirl story? Spend the minutes on emotional depth, not on gratuitous fight scenes. 
+10. **Persuasion is not argument.** Nobody is reasoned out of grief. Change happens by mirroring — Ruthye is Kara at month one; Kara is Ruthye at year ten.
 
 ---
 
@@ -56,8 +60,7 @@ The movie should never become a math problem about whether Kara is "strong enoug
 |---|---|---|---|---|
 | **Red-sun saturation** | Bar-world, after choosing to stay too long and drink too much | Residual flashes: a burst of speed, one too-hard hit, durability enough to survive what would kill a human | Sustain flight, control heat vision, dominate a room, protect everyone at once | Her avoidance has a physical cost. She is still Kara, but not commandingly Supergirl. |
 | **Red-sun recovery / away from the dead light** | Early road, moving out from the refuge but not yet restored | Endurance, trained fighting, brief saves that hurt her, moments of instinctive heroism | Clean spectacle, easy victory, solving the plot by force | Action becomes improvisation and consequence, not power display. |
-| **Yellow-sun flicker** | First real solar recharge / mid-road spectacle beat | One memorable heroic burst: enough to save, not enough to settle the story | Stay powered indefinitely, defeat the Brigand system alone | A promise of who she is when she stops hiding, and a reminder of what responsibility feels like. |
-| **Contested power** | Act II into pre-climax, as Krem's world closes around them | Stronger, clearer, more dangerous; power is coming back with her willingness to engage | Act without moral consequence; punch her way through hostages, captives, ships, wounds, and clocks | Shifts obstacles from physical parity to leverage and choice. |
+| **Yellow-sun flicker → rebirth** | Lobo scene — first solar recharge, rising through the dead atmosphere | Kara heals from the slash. Power floods back. She is *reborn* — not just physically but spiritually. Full Supergirl. | — | The sun does what the sun does: life insists on itself. This is the only solar transition. After this, she is full-strength Supergirl for the rest of the film. The temptation shifts from weakness to power. |
 | **Full yellow-sun return** | Climax | She can win. That is no longer interesting. | She cannot make vengeance mean healing | Power becomes temptation: now that nothing external can stop her, only character can. |
 
 **Krem and the Brigands are not power peers.** Against full Supergirl in an empty field, they do not matter. So the story should never stage them as if they are simply "strong enough" to trade blows with her. They matter because they control conditions: red light, numbers, ships, hostages, captives, medical access, collapsing infrastructure, and Ruthye's grief.
@@ -77,7 +80,7 @@ Thirteen, fierce, the elder of two. Cold, not helpless — serious in a way that
 
 POV sits with the wronged party, because that's where the bloodlust lives, and the film's job is to make *the audience* want Krem dead — then deny them the corpse, the certainty, and the catharsis, and make that denial cost. She has a living mother and a younger brother (5 or 6) who need her — her quest is an *active sacrifice*, not a default. Every day on the road is a day she's not home.
 
-Arc: Krem's thesis ("this is what the world is") against the life she left behind. The code gives her a path toward death; the brother and mother are the pull toward life. Her arc is not being *argued* out of revenge — it's being forced, in an irreversible moment, to *choose*. She drops the sword not because Krem deserves to live (he doesn't), not because Kara talked her down, but because she decides what *she* will be. A choice, not a speech. The road of life, not death — and the audience has to feel what it costs her to turn away.
+Arc: Krem's thesis ("this is what the world is") against the life she left behind. The code gives her a path toward death; the brother and mother are the pull toward life. Her arc is not being *argued* out of revenge — it's being forced, in an irreversible moment, to *choose*. She raises the sword and cuts the chain, not the neck — taking the antidote, choosing life. A choice, not a speech. The road of life, not death — and the audience has to feel what it costs her to turn away.
 
 **Kara / Supergirl — the deuteragonist with the harder internal arc.**
 The more dangerous of the two, because she could actually do it and be right to. She *agrees* with Ruthye; she wants Krem dead too. Her restraint is barely-held, not serene — she talks herself down and lets Ruthye overhear. She has killed before, justified, and it hollowed her: the drinking and the red-sun drifting are aftermath, not quirk. She isn't modeling a virtue she's mastered; she's modeling a recovery she's barely holding. Arc: avoidance/numbness → engagement/integration. She convinces herself as much as anyone.
@@ -91,7 +94,7 @@ He does not need to be physically scaled to Supergirl. That is the trap. Krem is
 The answer to "what if killing is nothing." A single Act II encounter, not a companion — a comet, not a satellite. He intersects their path (bounty hunting, boredom, or because Lobo goes where the violence is), rips through Brigands effortlessly, and saves Kara and Ruthye from a situation that's genuinely impossible at Kara's current power level. Cheerfully. Bodies everywhere. He is fun, effective, charismatic, right often enough to tempt — and exactly what Kara and Ruthye cannot let themselves become. He cannot be captured by Krem (Main Man fights Superman to a standstill; a raider with a crossbow is not a contest). His horror is that he's *easier*, and what he can't do — feel, care, be wounded by love — is the thing that ultimately makes him leave. The slaughter-plus-a-code disconnect isn't hidden; it's the subject, walking around as the most likable guy in the movie for fifteen minutes.
 
 **The Brigands — a survivor-culture's answer to extinction.**
-*Take, so you don't end.* Motivation explains without excusing. Crucially, even killing Krem wouldn't end them — they're a system (the bloodline, the raiding, the recruitment). The real work is the unglamorous part: free the captives, break the pipeline. Good is generative repair, not catharsis-by-corpse.
+*Take, so you don't end.* Motivation explains without excusing. Lobo kills the ones we see on screen; the system they represent is larger, but the film doesn't pretend to solve it. What matters for the climax is that Krem — stripped of his men, his system, his philosophy — is alone with the consequences of everything he chose.
 
 ---
 
@@ -181,6 +184,50 @@ The scene establishes: Kara is the broken one, not the wise one. Ruthye is the c
 
 ---
 
+## The Road, Part One — Small Proximities
+
+*Early Act II. They've left the red-sun world. Kara is functional but diminished — residual strength, nothing commanding. They're on a ship (Ruthye's family vessel? A stolen transport?) chasing Krem's trail.*
+
+The bonding isn't a speech. It's proximity.
+
+An intergalactic rest stop — alien truckstop energy, somewhere between a bus terminal and a market bazaar. Kara and Ruthye need supplies: food, medical, a charge cell for the ship. The mundane logistics of a road trip through space. Kara knows her way around these places; Ruthye doesn't. The dynamic is parent-dragging-teenager-through-errands, except the teenager has a sword.
+
+Ruthye cleans up in a washroom — the first time we've seen her look like a kid and not a soldier. She stares at herself in the mirror. For a beat, the armor drops. She's thirteen and she misses her mother. Then it's back on. She walks out composed.
+
+Outside, Kara watches Ruthye practice with the sword. The girl is serious, disciplined, clearly taught — but her grip is wrong for someone her size. Kara, without a word, adjusts Ruthye's hands on the hilt. Ruthye stiffens — she didn't ask for help. But she doesn't pull away. And after a moment, the grip is better.
+
+No dialogue about feelings. No "I know what you're going through." Just a woman who's been fighting for longer than this girl has been alive, fixing a grip, and a girl who lets her. The trust begins in the hands, not the heart.
+
+Small things: Kara buys something Ruthye didn't ask for (food she noticed her eyeing, a practical tool). Ruthye reads star maps better than Kara does and doesn't gloat about it. The ice cracks not through drama but through competence — two people becoming useful to each other before they're ready to be kind.
+
+---
+
+## The Road, Part Two — "I've Done What You're Planning"
+
+*Mid Act II. Later on the road. Kara is drinking again — she's been managing it, but something triggered her. Maybe a dead world they passed. Maybe the routine of the chase wearing down the distraction.*
+
+Ruthye finds her at it. Not a dramatic bender — just the quiet, practiced reach for the bottle, the thing she does to stop feeling. The same gesture from the morning sequence, the one the audience already knows.
+
+Ruthye tells her to stop.
+
+Not gently. Not as a request. With the same cold authority she uses for everything: *stop.* You're useless to me like this. I need you functional. The words are practical; the look underneath is something else. She's watched enough adults crumble. She won't watch this one.
+
+Kara, stung — maybe by the truth of it, maybe by a thirteen-year-old girl having to be the adult — puts the bottle down. And in the silence that follows, she talks.
+
+Not all of it. Not a monologue. Pieces. Argo's destruction. Not the noble sacrifice the legends will tell — the *slow* version. The sky going wrong. The ground shaking for days. People she knew dying in ones and twos and then all at once. The smell. The sounds. Her parents making her leave while they stayed. The pod, and the silence after.
+
+Ruthye listens. She doesn't interrupt. She doesn't compare grief. She just listens — the same way Kara listened to the code speech in the bar, recognizing something without trying to fix it.
+
+Then Kara, quiet:
+
+*"I've done what you're planning to do. It didn't make me feel what I thought it would."*
+
+She doesn't explain further. Doesn't say who, or when, or whether it was justified. The audience doesn't need to know. What matters is the confession: Kara isn't speaking from moral theory. She's speaking from the other side.
+
+Ruthye doesn't respond. The scene doesn't resolve. The confession just sits between them, and the road continues. But something has shifted — Ruthye can't pretend Kara is just a drunk with opinions anymore. She's been there. She came back. She's still coming back.
+
+---
+
 ## The Lobo Scene — "That's My Code"
 
 *Act II. Kara is depleted. Ruthye is hardening. The Brigands have them cornered in a situation that's genuinely impossible at Kara's current power level.*
@@ -221,6 +268,20 @@ Two codes. Ruthye's demands she kill. Kara's demands she prevent it. One sword, 
 
 Kara's eyes close. She's fading.
 
+Ruthye has to choose — right now, on her knees in the blood — between Krem disappearing with her revenge, and the woman bleeding out in front of her. She chooses Kara. She looks up at Lobo.
+
+*"Take us to a yellow sun."*
+
+Lobo snorts. He doesn't do favors. He doesn't do *feelings.*
+
+Ruthye stands. The same iron she used to cite her father's code. The same girl who told the Main Man to wait.
+
+*"Take us or kill me now. The code demands it."*
+
+She means it. She will die here before she watches Kara die. Lobo sees it — a thirteen-year-old girl who just accidentally cut the person she loves most, covered in blood that isn't hers, issuing a death-or-life ultimatum to the most dangerous man alive. Not begging. *Demanding.* Using the one currency he respects.
+
+A beat. Lobo's face is unreadable. Kara, barely conscious on the ground, tries to use her own powers — heat vision, a punch, anything — and gets almost nothing. She can't even melt an ice cube. A beat of dark comedy in the middle of the bleeding. She's not getting out of this without him.
+
 **The flashback.** Not the fragments from the morning nightmare — the *full memory*. Argo's final moments. Kara is fighting with her parents. She doesn't want to go. She wants to stay and die with them. The argument is ugly, desperate — a teenage girl screaming that she won't leave.
 
 Her parents break. *"If not, it'll all be for nothing."* They collapse, crying. Hugging her. The fight goes out of everyone and what's left is just a family holding each other at the end of a world.
@@ -233,25 +294,11 @@ Beat.
 
 That's the thesis. Not a philosophical position Kara arrived at. A promise she made to a dying woman. Every time she steps between someone and a blade, every time she holds her own fire, every time she chooses restraint over the cold kill — she's keeping a promise. And every day she spent on the red-sun world, drinking, hiding, numbing — she was breaking it.
 
-Cut back to the present. A tear floating weightless in space — they're on Lobo's bike, rising through the dead atmosphere. Silence. The nuclear winter thinning around them.
+Cut back to the present. Lobo's space bike. They're rising through the dead atmosphere — nuclear winter, the sky choked, no sunlight reaching the surface. Another dead planet. This does a number on Kara's trauma: everywhere she goes, worlds are ending. But the yellow sun is *right there*, just above the atmosphere. No interstellar travel needed. A tear floating weightless in space. Silence. The nuclear winter thinning around them.
 
-They break through.
+They break through into brilliant, blinding yellow light.
 
-Yellow light. Blinding, warm, alive.
-
-Kara takes a reflexive breath — not a choice, not a decision to re-engage. Her body insisting on living the way her parents insisted she live. The wounds close. The sun does what the sun does. Life insists on itself.
-
-Kara whispers: *"Take us to a yellow sun."*
-
-She already said it before they lifted off. But the audience hears it differently now — it's not just "heal me." It's her mother's voice: *you must live.*
-
-Lobo, standing over them, arms crossed. The emotions are repulsive to him. But the kid cited a code, and codes are the one thing Lobo respects. He flies them to see the sun — not out of kindness, because kindness is beneath him. Out of... something he'd never name and would kill you for suggesting.
-
-The planet they're on is a dying world — nuclear winter, the sky choked, no sunlight reaching the surface. Another dead planet. This does a number on Kara's trauma: everywhere she goes, worlds are ending. But the yellow sun is *right there*, just above the atmosphere. No interstellar travel needed. Before they go up, Kara tries to use her powers — heat vision, a punch, anything — and gets almost nothing. She can't even melt an ice cube. A beat of dark comedy in the middle of the bleeding.
-
-*"Let me see the sun."*
-
-Lobo's space bike. Up through the dead atmosphere, through the ash, through the nuclear winter — and then they break through into brilliant, blinding yellow light. The metaphor doesn't need to be stated: from death to life, from avoidance to engagement, from the surface of a dead world into the sun. Kara feels it hit her. Power returning. And with power, everything she's been hiding from.
+Kara takes a reflexive breath — not a choice, not a decision to re-engage. Her body insisting on living the way her parents insisted she live. The wounds close. The sun does what the sun does. Life insists on itself. The metaphor doesn't need to be stated: from death to life, from avoidance to engagement, from the surface of a dead world into the sun. Kara feels it hit her. Power returning. And with power, everything she's been hiding from.
 
 Under the yellow sun, Kara heals. Ruthye is crying. Kara holds her. The first genuine warmth between them — born from the worst moment. Lobo watches this, *mortified*. Two people hugging and sobbing in the sunlight and he cannot get away fast enough.
 
@@ -265,7 +312,7 @@ Over his shoulder, already accelerating away from the crying and the hugging and
 
 Gone. The strongest man in the scene exits because vulnerability is the one thing he can't do. That's the thesis: Lobo can do anything except feel, and that's exactly why he can't help them.
 
-**What the scene does:** It's Act II beat #2 (Kara stops Ruthye from a cold kill) and the yellow-sun flicker moment, fused. It makes mercy cost blood (Rule 7). It gives Ruthye the fracture that will drive her toward beat #3 (saving Kara) — because now she owes a debt her code can't account for. And it removes Lobo from the story permanently, motivated by character, not plot.
+**What the scene does:** It fuses Act II beats #2 and #3 into a single encounter. Beat 2: Kara stops Ruthye's cold kill by stepping into the blade. Beat 3: Ruthye saves Kara by choosing her life over revenge and forcing Lobo to take them to the sun. The yellow-sun moment is the rebirth — Kara goes from her weakest to full Supergirl in one transition, never to power down again. It makes mercy cost blood (Rule 7). It gives Ruthye the rehearsal she needs: she's practiced choosing life over death once, so the audience believes she can do it again at the climax. And it removes Lobo from the story permanently, motivated by character, not plot.
 
 ---
 
@@ -281,12 +328,12 @@ Mostly depowered, but never in a way that requires arithmetic. The relationship 
 
 2. **Kara stops Ruthye from a cold kill — the Lobo scene.** Lobo rips through Brigands, hands Krem to Ruthye on a platter, and she draws her sword. Kara — at her weakest — steps between them and takes the slash. Bleeds. "That's my code." Two codes, one sword. The fracture: Ruthye didn't mean to hurt Kara, but the thing she wanted just cut the one person who cares about her. Krem scrambles away. Lobo, repulsed by the emotion, flies them to a yellow sun and vanishes. Kara's first recharge isn't a choice — it's survival. (See: "The Lobo Scene.")
 
-3. **Ruthye saves Kara.** The flip. Kara is down, vulnerable, and Ruthye has to choose between pursuing her revenge and saving the person who's been carrying her. She saves Kara. Not because she's been argued out of anything — because in the moment, the life in front of her mattered more than the death behind her. This is the rehearsal for the climax: she's practiced choosing life over death once, with someone she loves. Now she knows she can do it.
+3. **Ruthye saves Kara — the Lobo scene climax.** The flip happens inside the same encounter: after Kara takes the slash, Ruthye has to choose between pursuing Krem and saving the person who just bled for her. She turns to Lobo — the most dangerous being on the planet, who respects nothing but codes — and invokes hers: *"Take us to the sun or kill me now. The code demands it."* Not begging. An ultimatum from a thirteen-year-old girl to the Main Man, delivered with the same iron she used to cite her father's right to vengeance. Lobo, against every instinct, complies — not out of kindness (beneath him), but because a kid who'll die before she backs down from her code is the one thing in the universe he can't dismiss. The yellow-sun ride is Ruthye saving Kara's life, and the rehearsal for the climax: she's practiced choosing life over death once, with someone she loves. Now she knows she can do it.
 
-Between these beats: a moment where Kara's instinct is to numb out and Ruthye names it; a real failure where Kara's avoidance gets someone killed, raising the price of the final choice. Lobo recurs as the seductive easy answer. The obstacles should be tactical and moral, not "is this henchman somehow stronger than Supergirl this week?"
+Between these beats: a moment where Kara's instinct is to numb out and Ruthye names it; a real failure where Kara's avoidance gets someone killed, raising the price of the final choice. The obstacles should be tactical and moral, not "is this henchman somehow stronger than Supergirl this week?"
 
 **Act III — The choice.**
-Power returns under the yellow sun, reframing the climax: not "can she win" but "what will she do with everything." The forced, irreversible choice arrives through the Krypto clock — revenge and the antidote made physically incompatible, the same instant, her own hands. Ruthye drops the sword. Kara holds her own fire. The **constructive** choice — freeing the captives, collapsing the system — removes Krem from the board while they're busy saving instead of avenging. We never see if Krem lives or dies; the camera stays with Ruthye as she walks away. Krypto breathes. The close is warmth: Ruthye home with her family, the birthday finally celebrated, a girl giggling for the first time in the film. Kara's resolution is quieter — a mid-credits beat, alone at a window in Metropolis, choosing to stay instead of hide.
+Power returns under the yellow sun, reframing the climax: not "can she win" but "what will she do with everything." The forced, irreversible choice arrives through the Krypto clock — revenge and the antidote made physically incompatible, the same instant, her own hands. Ruthye slashes the chain, not the neck. Kara holds her own fire. We never see if Krem lives or dies; the camera stays with Ruthye as she walks away. Krypto breathes. The close is warmth: Ruthye home with her family, the birthday finally celebrated, a girl giggling for the first time in the film. Kara's resolution is quieter — a mid-credits beat, alone at a window in Metropolis, choosing to stay instead of hide.
 
 *Avoidance → engagement → integration. Paid in full.*
 
@@ -349,7 +396,7 @@ We never see if Krem lives or dies. The movie doesn't show it because Ruthye doe
 | **Midpoint / mirror of grief** | Krem escalates as a monster, which makes killing him feel increasingly obvious and drains the dilemma from the climax. | Krem's motivation is clarified: a survivor of a dead world who chose predation. He is not redeemed or softened; he is Ruthye's possible future and Kara's nightmare answer to grief. |
 | **Second half / cost of restraint** | Attempts at mercy or restraint appear to be punished, nudging the film toward the conclusion that execution is practical mercy. | Restraint must cost something concrete without proving itself stupid. Mercy is not guaranteed to work; it is a wager Kara and Ruthye make against justified rage. The cost raises the moral pressure instead of rigging the board for murder. |
 | **Pre-climax / power returns** | Kara regains enough power for the finale, restoring the superhero-fight question: can she beat Krem? | Full power returns under a yellow sun exactly when it becomes morally dangerous. The question is no longer whether she can win. It is what she will do now that nothing external can stop her. |
-| **Climax / irreversible choice** | Kara talks Ruthye out of killing, then kills Krem herself. Ruthye's arc is displaced, and the movie performs the cold execution it claims to reject. | Ruthye must choose between revenge and a life — Krypto's antidote, Kara, or both — in the same instant. She drops the sword because she chooses the living. Kara holds her own fire because she is choosing with Ruthye, not above her. |
+| **Climax / irreversible choice** | Kara talks Ruthye out of killing, then kills Krem herself. Ruthye's arc is displaced, and the movie performs the cold execution it claims to reject. | Ruthye must choose between revenge and a life — Krypto's antidote, Kara, or both — in the same instant. She slashes the chain, not the neck — choosing the living. Kara holds her own fire because she is choosing with Ruthye, not above her. |
 | **Krem's end / no laundering** | Krem dies as Kara's protective execution, giving the audience catharsis while trying to preserve the anti-revenge lesson. | Krem is neutralized and removed from the board, but his fate is withheld. Realist reading: the collapse may kill him. Comic-book reading: he survives somewhere in the wreckage. The story refuses to make his death the catharsis, because Ruthye's arc completes when she stops looking back. |
 | **Resolution / what changed** | Krypto lives, Ruthye is saved from killing, and Kara absorbs the moral stain, leaving a hollow aftertaste. | Krypto breathes because someone chose life over death. Ruthye returns toward the family she nearly abandoned. Kara leaves the red-sun refuge and chooses to feel power, grief, responsibility, and love at once. |
 
@@ -448,10 +495,10 @@ The audience leaves with the sense that she's going to be all right.
 **Over:** The 2026 film revealing Kara's grief in a mid-film flashback.
 **Why:** The "go home" scene needs the audience to already understand what "I have a mother and a brother" does to Kara. If the grief is hidden until act two, the first meeting plays flat — you don't know why Kara cracks. Front-loading the nightmare and the unanswered Clark voicemail means the audience flinches before Kara does. It also establishes her avoidance as a daily practice (reaching for the bottle before her eyes open), not a backstory reveal.
 
-### Act II escalation: protected → restrained → protector → chooser
-**Chose:** Three beats — Kara shields Ruthye, Kara stops Ruthye's cold kill, Ruthye saves Kara — leading to the climax choice.
+### Act II escalation: protected → restrained/saved → trusted
+**Chose:** Three beats — Kara shields Ruthye, then beats 2 and 3 fuse in the Lobo scene (Kara stops Ruthye's cold kill AND Ruthye saves Kara by getting her to the sun) — leading to the climax where Kara trusts Ruthye to choose.
 **Over:** Interchangeable fight scenes where Kara is arbitrarily weakened.
-**Why:** The 2026 film's middle is a string of detachable set pieces that could be reordered without changing anything. Each of our three beats changes the relationship irreversibly: Ruthye goes from resentful passenger (stop protecting me) to fractured ally (stop stopping me) to active agent (I choose to save you). Beat 3 is the rehearsal for the climax — she's practiced choosing life over death once, so the audience believes she can do it again. The escalation also tracks Ruthye's agency: she starts as someone things happen *to* and ends as someone who *decides*.
+**Why:** The 2026 film's middle is a string of detachable set pieces that could be reordered without changing anything. Each of our beats changes the relationship irreversibly: Ruthye goes from resentful passenger (stop protecting me) to fractured ally (stop stopping me / I choose to save you) to trusted agent (she chooses, Kara doesn't intervene). Fusing beats 2 and 3 in the Lobo scene makes the reversal immediate and devastating — Ruthye almost kills Kara and then has to save her in the same encounter. The escalation tracks Ruthye's agency: she starts as someone things happen *to* and ends as someone who *decides*.
 
 ### Never show if Krem lives or dies
 **Chose:** The camera stays with Ruthye as she walks away. Krem's fate is never revealed.
@@ -482,3 +529,13 @@ The audience leaves with the sense that she's going to be all right.
 **Chose:** Ruthye raises the sword, the audience holds its breath, and she slashes the chain holding the antidote around Krem's neck. Takes the cure. Turns away.
 **Over:** (A) Ruthye simply lowering the sword and walking away. (B) Kara intervening to stop the kill (as in the Lobo scene). (C) Ruthye killing Krem and then finding the antidote.
 **Why:** Option A is passive — Ruthye *not* doing something is weaker than Ruthye *doing* something that isn't the kill. Option B repeats the Lobo scene and undermines the whole Act II escalation (protected → restrained → protector → trusted). Option C is the 2026 film. The slash misdirect works because: (1) it's a *choice made physical* — one gesture, sword to chain, life instead of death; (2) it weaponizes the audience's own bloodlust against them — you wanted the kill, you thought you were getting it, and the denial lands in your gut; (3) it completes Kara's arc of trust — she's standing behind Ruthye, didn't step in, didn't play protector, and her look of relief when the blade hits chain instead of neck is the culmination of their entire relationship. The antidote around Krem's neck also means the cure and the kill are *in the same gesture* — she literally has to choose which target the sword hits.
+
+### Bonding through proximity, not speeches
+**Chose:** Two road scenes — a rest-stop scene (mundane logistics, grip correction, silent competence) and a drinking-confession scene ("I've done what you're planning to do") — carry the relationship from uneasy alliance to something approaching trust.
+**Over:** (A) A single "I know how you feel" speech from Kara. (B) A montage of fun adventures. (C) No bonding scenes — jump from First Meeting to the Lobo scene.
+**Why:** Option A violates Rule 10 (persuasion is not argument) and makes Kara the wise mentor, which she isn't. Option B makes the tone wrong — this isn't a buddy comedy. Option C leaves the relationship unearned, so the Lobo scene emotional core (Ruthye caring enough to save Kara) comes from nowhere. The two-scene approach lets the bond build through action and silence: the grip correction is a physical act of trust (Ruthye lets Kara touch her weapon); the drinking scene is a confession that costs Kara something (admitting she's been where Ruthye is going). Neither scene resolves; both just shift the ground.
+
+### Ruthye's code ultimatum forces Lobo's hand
+**Chose:** Ruthye demands Lobo take them to the sun — *"Take us or kill me now. The code demands it."* — and Lobo complies because codes are the one thing he respects.
+**Over:** (A) Lobo helping out of pity or sentimentality. (B) Kara making the request. (C) Lobo deciding on his own.
+**Why:** Option A violates Lobo's character entirely — he doesn't do pity. Option B makes Kara the agent at a moment that should be Ruthye's — this is beat 3, Ruthye saving Kara. Option C makes Lobo the decision-maker in someone else's story. The code ultimatum works because: (1) it weaponizes Ruthye's code against the one person who respects codes; (2) it's Ruthye's most dangerous moment of agency — she's offering her own death to the most dangerous man alive, not as desperation but as a demand; (3) it completes the code motif: Ruthye's code demanded vengeance, Kara's code demanded mercy, and now Ruthye's code demands life; (4) Lobo can't refuse without betraying the principle he just praised. He doesn't help out of kindness — he helps because a thirteen-year-old just held him to his own standard.
