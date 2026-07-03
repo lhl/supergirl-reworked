@@ -336,7 +336,7 @@ Kara's eyes close. She's fading.
 
 Ruthye has to choose — right now, on her knees in the blood — between Krem disappearing with her revenge, and the woman bleeding out in front of her. She chooses Kara. She looks up at Lobo.
 
-*"Take us to a yellow sun."*
+*"Take me up to see the sun."*
 
 Lobo snorts. He doesn't do favors. He doesn't do *feelings.*
 
@@ -352,11 +352,13 @@ Then: *"Fine."*
 
 Ruthye does not waste the half-second wondering if he means it. She hits the button on the self-deploying bubble space-suit ring Kara bought her at the rest stop. The bubble snaps open with an offensively cheerful little chime around Ruthye and Kara — practical, ridiculous, lifesaving. A tiny callback to Kara's throwaway *"now you won't die in space"* becoming the thing that lets Ruthye save her.
 
-Lobo looks at the bubble. Looks at Ruthye.
+Lobo rolls his eyes, lifts and throws Kara over his shoulder in one go.
 
-*"I hate prepared people."*
+*"Get on."* he says to Ruthye. He doesn't have to say it twice.
 
-Kara, barely conscious on the ground, tries to use her own powers — heat vision, on her wound — and gets almost nothing. She can't even melt an ice cube. A beat of dark comedy in the middle of the bleeding. She stops trying, but with a calm look on her face, she's made her peace with her decision - if it costs her life, it was worth it.
+Kara has a calm look on her face, she's made her peace with her decision - if this has cost her her life, it was worth it.
+
+She closes her eyes.
 
 **The flashback.** Not the fragments from the morning nightmare — the *full memory*. Argo's final moments. Kara is fighting with her parents. She doesn't want to go. She wants to stay and die with them. The argument is ugly, desperate — a teenage girl screaming that she won't leave.
 
@@ -366,19 +368,21 @@ Her mother, holding her face: *"You must live."*
 
 Beat.
 
-*"Promise me you'll be good."*
+Father: *"Promise me you'll be good."*
 
 *"I promise."*
 
 That's the thesis. Not a philosophical position Kara arrived at. A promise she made to a dying woman. Every time she steps between someone and a blade, every time she holds her own fire, every time she chooses restraint over the cold kill — she's keeping a promise. And every day she spent on the red-sun world, drinking, hiding, numbing — she was breaking it.
 
+(is "good" a state of mind, a philosophy, a measure of actions? an measure of self-love? - it should be multifaceted)
+
 Cut back to the present. Lobo's space bike. They're rising through the dead atmosphere — nuclear winter, the sky choked, no sunlight reaching the surface. Another dead planet. This does a number on Kara's trauma: everywhere she goes, worlds are ending. But the yellow sun is *right there*, just above the atmosphere. No interstellar travel needed. Kara is slumped against the bike, the battered leather jacket torn open and wrapped around her almost like a death shawl. A tear floating weightless in space. Silence. The nuclear winter thinning around them.
 
 They break through into brilliant, blinding yellow light.
 
-Kara's limp form floating (fetal like, certainly not cruciform) takes a reflexive breath — rebirth. Her body insisting on living the way her parents insisted she live. The wounds close. The sun does what the sun does. Life insists on itself. The jacket, finally too damaged to hold together, slips loose and drifts away behind her — the old hide, the death shawl, the thing she wrapped around herself to disappear. The metaphor doesn't need to be stated: from death to life, from avoidance to engagement, from the surface of a dead world into the sun. Kara feels it hit her. Power returning. And with power, everything she's been hiding from.
+Kara's limp form floating (fetal like, certainly not cruciform), bright yellow light bathing her form. And she takes a reflexive breath — rebirth. Her body insisting on living the way her parents insisted she live. The wounds close. The sun does what the sun does. Life insists on itself. The jacket, finally too damaged to hold together, slips loose and drifts away behind her — the old hide, the death shawl, the thing she wrapped around herself to disappear. The metaphor doesn't need to be stated: from death to life, from avoidance to engagement, from the surface of a dead world into the sun. Kara feels it hit her. Power returning. And with power, everything she's been hiding from.
 
-Under the yellow sun, Kara heals. Ruthye is crying. Kara holds her. The first genuine warmth between them — born from the worst moment. Lobo watches this, *mortified*. Two people hugging and sobbing in the sunlight and he cannot get away fast enough.
+Under the yellow sun, Kara heals. Ruthye is crying. Kara reaches out and holds her. The lesson that Supergirl needed to show Rhuthye. And herself. Lobo watches this, *mortified*. Two people hugboxing in the sunlight and he cannot get away fast enough.
 
 He kicks the bike into gear. Still processing what he saw — a woman stepping into a blade, on purpose, for *feelings.*
 
@@ -431,17 +435,17 @@ Krem stands up, looking at Supergirl, a quick glance at Rhuthye, but he can't ho
 
 His eyes are still red from the previous encounter. The dead world lets Krem speak without giving him a villain speech. 
 
-*"Look around you."* he says quietly. *"There was no one to save us."*
+*"Look around you."* he says quietly. *"There was never anyone to save us."*
 
-Not cackling. Not operatic. Bitter, tired, almost bored with his own pain. This is the place that proved his thesis to him, and he has mistaken surviving it for understanding the universe.
+He could have been talking about Lobo, or about his dead world. Not a mustache-twirling villain. Just a bitter, tired man, almost bored with his own pain. This is the place that proved his thesis to him, and he has mistaken surviving it for understanding the universe.
 
-He raises his arm - Kara recognizes it, it's his poison bow. And she sees the antidote he's wearing around his neck.
+He raises his arm - Kara recognizes it, it's his poison bow. Buts she's focused on the antidote he's wearing around his neck.
 
-**The non-fight.** Krem shoots and we see the absurdity of the power disparity. Kara is already floating. The arrow moves so slowly it might as well not be moving. We see a shockwave as she moves towards Krem, he's moving too slow to even register, but his eyes widen.
+**The non-fight.** Krem shoots and we see the absurdity of the power disparity. Kara is already floating off the ground and flying towards him. The arrow moves so slowly it might as well not be moving. We see a shockwave as she moves towards Krem, he's moving too slow to even register, but his eyes widen.
 
 Kara plucks the poison arrow out of the air, and as she closes to him, she slams the crossbow shooter out of his hand, maybe rougher than she needed to.
 
-We spring back to real time and we hear Krem howl, the shockwave has blasted him on the ground and his right arm is definitely not pointing the right way. Kara is taken back a bit, she either didn't expect him to be so weak or she didn't expect herself to be so angry.
+We spring back to real time and we hear Krem howl, the shockwave has blasted him meters back on the ground and his right arm is definitely not pointing the right way. Kara is taken back a bit, she either didn't expect him to be so weak or she didn't expect herself to be so angry.
 
 Kara takes a beat, looks down, holding her fingers to her head. "Listen, I just want the antidote to save-"
 
@@ -449,7 +453,7 @@ We see a huge red glow filling the screen and Kara looks up and we hear/see a ex
 
 We see a red arc across the sky, the concussive energy blast shooting past the horizon, with Supergirl nowhere to be seen.
 
-Panning down, we see Rhuthye standing over Krem, bleeding and burnt, the what's left of the arm and arm-gun smoldering and charred, but the antidote still hanging around his neck unharmed.
+Panning back down, we see Rhuthye standing over Krem now.  He's bleeding and burnt, and what's left of his arm and arm-gun is smoldering and charred, but the antidote still hanging around his neck unharmed.
 
 She's looking down with that same determination from the cold open. Sword drawn. The same look she wore when she disarmed a ruffian in a bar. Nothing in her body language telegraphs mercy. Nothing suggests hesitation. The audience should be in genuine suspense about what will happen — because this girl has been building toward this moment for two hours, and everything about her says she's going to finish it.
 
@@ -467,7 +471,7 @@ The audience holds its breath.
 
 She slashes — not his neck. The chain. She picks up the antidote and turns around.
 
-Kara is standing behind her (no worse the wear, this is Supergirl). How long has she been there? She didn't step in. Didn't block the swing, didn't intervene, didn't play protector. She was ready to — unsure, terrified — but she let Ruthye choose. 
+Kara has been standing behind her (no worse the wear, this is Supergirl). How long has she been there? She didn't step in. Didn't block the swing, didn't intervene, didn't play protector. She was ready to — unsure, terrified — but she let Ruthye choose. 
 
 The look on her face as Ruthye turns around with the antidote instead of blood on the blade: relief, love, and understanding all at once. She's watching a thirteen-year-old girl become the person Kara has been trying to be for ten years.
 
@@ -567,11 +571,11 @@ Her face in the reflection: sad, but present. Not numb. Not drinking. Feeling it
 
 A breath.
 
-*"Still, it's good to be... home."*
+*"I mean, it's good to be... home."*
 
 Looking at Krypto in the reflection being a terror (who her true home is).
 
-She's not sure yet. She might not be sure for a long time. But she's here, and she's choosing to stay — not hiding on a red-sun world, not dodging Clark's calls, not reaching for the bottle before her eyes open. Engagement, not avoidance. Integration, not numbness.
+She's not sure yet. She might not be sure for a long time. But she's here, and she's choosing to stay — not hiding on a red-sun world, not dodging Clark's calls, not reaching for the bottle before her eyes open.
 
 The audience leaves with the sense that she's going to be all right.
 
@@ -608,11 +612,6 @@ The audience leaves with the sense that she's going to be all right.
 **Chose:** Serious, composed, unsettling to adults. Cites her people's legal code demanding she hunt her father's killer.
 **Over:** A weeping, traumatized child who needs rescuing.
 **Why:** A helpless Ruthye makes the movie a rescue story with Kara as the wise mentor. A cold Ruthye makes it a *mutual* story — two people at different mile-markers on the same road. The code is doing double work: it gives a thirteen-year-old standing and dignity (she has a legal claim, not just feelings), and it's armor over grief — a way to process unbearable loss as obligation instead of feeling. The code also becomes the thing she has to lay down at the climax: dropping the sword means admitting the code was grief all along.
-
-### Poison, not wound
-**Chose:** Brigand poison bolt. Antidote carried by Brigands for friendly fire. Yellow sun won't cure a chemical.
-**Over:** Catastrophic physical wound that heals under yellow sunlight.
-**Why:** A wound creates two problems. First, yellow sunlight would heal it — so why not find any yellow sun? That question eats the plot. Second, a wound has no predictable clock: Krypto might die in ten minutes or ten hours, which makes ticking-bomb pacing impossible. Poison sets a definite deadline, justifies chasing Krem specifically (he has the antidote on his body), and doesn't require Krem to know anything about Kryptonian biology. The Brigands tip their weapons because that's what raiders do. No lore math.
 
 ### No kryptonite, no Kryptonian-knowledge requirement
 **Chose:** Krem doesn't know what Kara is. He's exploiting a drunk, depleted woman on a red-sun world.
@@ -654,7 +653,7 @@ The audience leaves with the sense that she's going to be all right.
 **Over:** (A) Revealing the full memory early (morning sequence or Act I). (B) Revealing it in a mid-film flashback as the 2026 film does. (C) Never showing it explicitly.
 **Why:** The morning fragments plant the trauma without explaining it — the audience knows Kara is haunted but not by what, specifically. Holding back the full memory until she's dying does three things: (1) it lands at maximum emotional impact, when the audience has spent the whole film watching Kara avoid this exact feeling; (2) it reframes "be good" from a theme into a *promise to a dying mother*, which retroactively charges every act of restraint in the film; (3) the yellow-sun healing that follows becomes not just physical recovery but an answer to the promise — her body insisting on living the way her parents insisted she live. The mid-credits stinger ("it's good to be... home") then completes the arc: she's finally doing what her mother asked.
 
-### The slash misdirect — sword to chain, not neck
+### The final slash misdirect — sword to chain, not neck
 **Chose:** Ruthye raises the sword, the audience holds its breath, and she slashes the chain holding the antidote around Krem's neck. Takes the cure. Turns away.
 **Over:** (A) Ruthye simply lowering the sword and walking away. (B) Kara intervening to stop the kill (as in the Lobo scene). (C) Ruthye killing Krem and then finding the antidote.
 **Why:** Option A is passive — Ruthye *not* doing something is weaker than Ruthye *doing* something that isn't the kill. Option B repeats the Lobo scene and undermines the whole Act II escalation (protected → restrained → protector → trusted). Option C is the 2026 film. The slash misdirect works because: (1) it's a *choice made physical* — one gesture, sword to chain, life instead of death; (2) it weaponizes the audience's own bloodlust against them — you wanted the kill, you thought you were getting it, and the denial lands in your gut; (3) it completes Kara's arc of trust — she's standing behind Ruthye, didn't step in, didn't play protector, and her look of relief when the blade hits chain instead of neck is the culmination of their entire relationship. The antidote around Krem's neck also means the cure and the kill are *in the same gesture* — she literally has to choose which target the sword hits.
