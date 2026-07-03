@@ -15,7 +15,7 @@ The thing being adapted is **not the plot**. It's the **thesis**: *in a world th
 
 ## Why the 2026 movie misses
 
-It kept the comic's plot, but twists its thesis. Kara spends the film (halfheartedly) arguing that revenge is hollow and that killing is a line you can't return from , and then  coldly executes a disarmed Krem after talking Ruthye out of it.
+It kept the comic's plot, but twists its thesis. Kara spends the film (halfheartedly) arguing that revenge is hollow and that killing is a line you can't return from, and then coldly executes a disarmed Krem after talking Ruthye out of it.
 
 We see she doesn't believe what she's saying, or that she views herself as so unfixably broken that it doesn't matter if she takes on more of the soul-killing (but she seems fine afterwards. It's ok, we the audience don't believe it either).
 
@@ -26,8 +26,8 @@ The result contradicts its own stated theme and reads as Snyderverse gravitas we
 Thematically, this doesn't sit right, but structurally, the movie suffers as well:
 
 - **Power is a dial, not a rule** — strong enough for spectacle, conveniently weak when innocents die.
-- **The power math eats the drama** — Kara snaps between too weak and too strong, while Krem and the Brigands are either irrelevant next to her or implausibly strong enough to matter. The audience starts calculating instead of feeling.
-- **The set pieces are detachable** — nothing escalates, so it feels like it should have ended three fights earlier. Honestly, save the pixels, who cares?
+- **The power math eats the drama** — Kara snaps between too weak and too strong, while Krem and the Brigands are either irrelevant next to her or implausibly strong enough to matter. The audience stops caring, does any of the punching even matter?
+- **The set pieces are detachable** — nothing escalates, so it feels like it should have ended three fights earlier. 
 - **Ruthye's change of heart is asserted, not dramatized** — she never makes the choice the story should be about.
 - **Krem is a symbol, not a person** — there's no moral tension in killing a cartoon.
 - **The camera loves the death the script condemns** — the core DCEU incoherence.
@@ -154,7 +154,7 @@ This sequence does one job: by the time Kara meets Ruthye and hears "I have a mo
 
 ## First Meeting — "Go Home"
 
-A bar on the red-sun world. Kara is drunk — not charmingly, not as a bit. Avoidance wearing a glass. The physics and the addiction rhyme: the longer she stays under the red sun, the weaker she gets; the more she drinks, the less able she is to marshal whatever strength remains.
+A bar on the red-sun world. Kara is drunk — not charmingly, not as a bit. Avoidance wearing a glass. She wears the battered oversized leather jacket she'll carry through most of the movie: too big, beat to hell, half armor and half blanket. The physics and the addiction rhyme: the longer she stays under the red sun, the weaker she gets; the more she drinks, the less able she is to marshal whatever strength remains.
 
 Ruthye walks in already on the hunt. A ruffian gets in her way and she disarms him — clean, one-on-one, no hesitation. Not a trained fighter, but cold and serious in a way that makes grown men recalculate. She's thirteen and she just won a barfight. The room notices.
 
@@ -284,7 +284,7 @@ The world looks like Argo at the end, but a whole planet. Kara is grim — lack 
 
 The trail leads into old Brigand infrastructure: depot, bunker, transit spine, whatever remains of a civilization that learned to move supplies after it stopped knowing how to make a home. Krem's crew hasn't set a mastermind trap; they have simply reactivated dead-world defenses because that is what this place was built to do. Automated turrets, pressure mines, old perimeter guns coughing back to life, machines with no ideology and no mercy.
 
-This is where **Kara protects Rhuthye** gets its home. Rhuthye wants to move toward the tracker. Kara keeps putting herself between the kid and the fire. She wraps Rhuthye in her arms through a turret burst, takes shrapnel across the back, drags her behind broken concrete, then hauls her onto a piggyback run when the ground starts detonating under them. It is not clean superspeed; it's a ruined, depleted approximation of it — Kara stumbling through gunfire, shielding Rhuthye with her own body, getting beaten to hell by machines she could have ignored at full power.
+This is where **Kara protects Rhuthye** gets its home. Rhuthye wants to move toward the tracker. Kara keeps putting herself between the kid and the fire. She wraps Rhuthye in her arms through a turret burst, takes shrapnel across the back, drags her behind broken concrete, then hauls her onto a piggyback run when the ground starts detonating under them. It is not clean superspeed; it's a ruined, depleted approximation of it — Kara stumbling through gunfire, shielding Rhuthye with her own body, getting beaten to hell by machines she could have ignored at full power. The leather jacket gets shredded here: less cool costume now, more ragged hide, something she is still clinging to.
 
 Rhuthye hates it. Not because she is ungrateful, but because every save feels like being made small. She came to kill Krem. Kara keeps making her a child.
 
@@ -372,11 +372,11 @@ Beat.
 
 That's the thesis. Not a philosophical position Kara arrived at. A promise she made to a dying woman. Every time she steps between someone and a blade, every time she holds her own fire, every time she chooses restraint over the cold kill — she's keeping a promise. And every day she spent on the red-sun world, drinking, hiding, numbing — she was breaking it.
 
-Cut back to the present. Lobo's space bike. They're rising through the dead atmosphere — nuclear winter, the sky choked, no sunlight reaching the surface. Another dead planet. This does a number on Kara's trauma: everywhere she goes, worlds are ending. But the yellow sun is *right there*, just above the atmosphere. No interstellar travel needed. A tear floating weightless in space. Silence. The nuclear winter thinning around them.
+Cut back to the present. Lobo's space bike. They're rising through the dead atmosphere — nuclear winter, the sky choked, no sunlight reaching the surface. Another dead planet. This does a number on Kara's trauma: everywhere she goes, worlds are ending. But the yellow sun is *right there*, just above the atmosphere. No interstellar travel needed. Kara is slumped against the bike, the battered leather jacket torn open and wrapped around her almost like a death shawl. A tear floating weightless in space. Silence. The nuclear winter thinning around them.
 
 They break through into brilliant, blinding yellow light.
 
-Kara's limp form floating (fetal like, certainly not cruciform) takes a reflexive breath — rebirth. Her body insisting on living the way her parents insisted she live. The wounds close. The sun does what the sun does. Life insists on itself. The metaphor doesn't need to be stated: from death to life, from avoidance to engagement, from the surface of a dead world into the sun. Kara feels it hit her. Power returning. And with power, everything she's been hiding from.
+Kara's limp form floating (fetal like, certainly not cruciform) takes a reflexive breath — rebirth. Her body insisting on living the way her parents insisted she live. The wounds close. The sun does what the sun does. Life insists on itself. The jacket, finally too damaged to hold together, slips loose and drifts away behind her — the old hide, the death shawl, the thing she wrapped around herself to disappear. The metaphor doesn't need to be stated: from death to life, from avoidance to engagement, from the surface of a dead world into the sun. Kara feels it hit her. Power returning. And with power, everything she's been hiding from.
 
 Under the yellow sun, Kara heals. Ruthye is crying. Kara holds her. The first genuine warmth between them — born from the worst moment. Lobo watches this, *mortified*. Two people hugging and sobbing in the sunlight and he cannot get away fast enough.
 
@@ -429,7 +429,7 @@ We see Krem he's gotten it back together a bit, he's has a huge duffel-bag of go
 
 Krem stands up, looking at Supergirl, a quick glance at Rhuthye, but he can't hold the eye contact.
 
-His eyes are red. The dead world lets Krem speak without giving him a villain speech. 
+His eyes are still red from the previous encounter. The dead world lets Krem speak without giving him a villain speech. 
 
 *"Look around you."* he says quietly. *"There was no one to save us."*
 
@@ -441,17 +441,17 @@ He raises his arm - Kara recognizes it, it's his poison bow. And she sees the an
 
 Kara plucks the poison arrow out of the air, and as she closes to him, she slams the crossbow shooter out of his hand, maybe rougher than she needed to.
 
-We spring back to real time and we hear Krem howl, the shockwave has blasted him on the ground and his right arm is definitely not pointint the right way. Kara is taken back a bit, she either didn't expect him to be so weak or she didn't expect herself to be so angry.
+We spring back to real time and we hear Krem howl, the shockwave has blasted him on the ground and his right arm is definitely not pointing the right way. Kara is taken back a bit, she either didn't expect him to be so weak or she didn't expect herself to be so angry.
 
-Kara takes a beat, looks down, holding her fingers to her head. "Listen, I just want the antido-"
+Kara takes a beat, looks down, holding her fingers to her head. "Listen, I just want the antidote to save-"
 
 We see a huge red glow filling the screen and Kara looks up and we hear/see a explosion from Krem as the screen goes white.
 
-We see a red arch across the sky, the the concussive energy blast shooting past the horizon, with Supergirl nowhere to be seen.
+We see a red arc across the sky, the concussive energy blast shooting past the horizon, with Supergirl nowhere to be seen.
 
-Panning down, we see Rhuthye standing over Krem, bleeding and burnt, the what's left of the arm and arm-gun smoldering and charred, but eh antidote still hanging around his neck.
+Panning down, we see Rhuthye standing over Krem, bleeding and burnt, the what's left of the arm and arm-gun smoldering and charred, but the antidote still hanging around his neck unharmed.
 
-She's looking down at with that same determination from the cold open. And draws her sword. The same look she wore when she disarmed a ruffian in a bar. Nothing in her body language telegraphs mercy. Nothing suggests hesitation. The audience should be in genuine suspense about what will happen — because this girl has been building toward this moment for two hours, and everything about her says she's going to finish it.
+She's looking down with that same determination from the cold open. Sword drawn. The same look she wore when she disarmed a ruffian in a bar. Nothing in her body language telegraphs mercy. Nothing suggests hesitation. The audience should be in genuine suspense about what will happen — because this girl has been building toward this moment for two hours, and everything about her says she's going to finish it.
 
 Krem looks at her. Not the evangelist from the cold open, not the philosopher who killed her father with deliberate spite. The man who begged for his life and watched his own philosophy collapse. He's tired. Hollowed out. Used up by the thing he built.
 
@@ -677,3 +677,87 @@ The audience leaves with the sense that she's going to be all right.
 **Chose:** Ruthye demands Lobo take them to the sun — *"Take us or kill me now. The code demands it."* — and Lobo complies because codes are the one thing he respects.
 **Over:** (A) Lobo helping out of pity or sentimentality. (B) Kara making the request. (C) Lobo deciding on his own.
 **Why:** Option A violates Lobo's character entirely — he doesn't do pity. Option B makes Kara the agent at a moment that should be Ruthye's — this is beat 3, Ruthye saving Kara. Option C makes Lobo the decision-maker in someone else's story. The code ultimatum works because: (1) it weaponizes Ruthye's code against the one person who respects codes; (2) it's Ruthye's most dangerous moment of agency — she's offering her own death to the most dangerous man alive, not as desperation but as a demand; (3) it completes the code motif: Ruthye's code demanded vengeance, Kara's code demanded mercy, and now Ruthye's code demands life; (4) Lobo can't refuse without betraying the principle he just praised. He doesn't help out of kindness — he helps because a thirteen-year-old just held him to his own standard.
+
+---
+
+## Visual Language — The Universe Is the Spectacle
+
+*We deleted the CGI beat-em-ups. The wonder has to come from somewhere. This is where.*
+
+**North star: Evely, not cantina.** The comic's visual identity — Bilquis Evely's
+teeming vistas, impossible fauna, a universe that is enormous, mostly indifferent,
+and occasionally hilarious — is the target. Silver-age invention with modern craft.
+The register is closer to *Rick and Morty*'s economy of weirdness than *Star Wars*'
+rubber-mask realism: every background alien is a one-gag high concept (the drive
+component that annoyingly *does* grow — in a vat, over hours; the drop-shell rated
+for "toxic atmosphere and plausible deniability"), never forty masks holding drinks.
+Weirdness as invention, not set dressing. One tone check governs all of it: **the
+universe is funny; the grief is not.** The comedy lives in the world, never in the
+characters deflecting.
+
+**The whimsy lives in the connective tissue.** The rest stop, the bus, and the drop
+point are exactly the sections the 2026 film rushed through to reach its next fight —
+and exactly where this version spends its reclaimed minutes. That's not a
+coincidence; it's the delivery mechanism. The film breathes in the same scenes where
+the universe gets to be strange.
+
+**The palette is the argument.** Five movements:
+
+1. **Dead red** — the bar world. Flat, sodium-lamp light that makes everything look
+   embalmed. Kara's avoidance rendered as color grade.
+2. **Riotous life** — the rest stop and the bus. Maximum saturation, maximum
+   invention, life insisting on itself in ridiculous forms. The film at its most
+   alive, deliberately, right before —
+3. **Gray** — the Brigand homeworld. Every drop of color drained. Nuclear winter,
+   lightning under cloud. The dead world lands *because* we just spent twenty
+   minutes in a universe bursting with absurd creatures. This is what Krem's thesis
+   looks like when it wins.
+4. **Blinding yellow** — the rebirth. One transition, held long. The sun does what
+   the sun does.
+5. **Warm homestead** — the birthday. Golden-hour domesticity. And the final image
+   reclaims the film's first color: Ruthye laughing as the ship crosses a *fiery red
+   sky* — red no longer the dead light of avoidance but the ordinary blaze of a
+   living evening. The palette forgives its own opening.
+
+**Light behaves like a character.** The suns are the central conceit, so light gets
+blocked, filtered, chased, and denied on screen: Kara's hand pressed to the
+drop-shell glass, the glint of yellow on its curve before the cloud swallows it, the
+red porthole in her morning quarters. The rule the audience absorbs without being
+told: barriers filter the sun's gift. That's why the rebirth must happen in open
+space, on a bike, unshielded — and why it can only happen once.
+
+**The jacket is avoidance made costume.** For most of the film Kara wears a battered,
+oversized leather jacket: too big, too old, a little cool until it isn't. It is armor,
+blanket, disguise, hangover uniform — something to disappear inside. The dead-world
+trap shreds it; the Lobo slash turns it into a ragged death shawl around her on the
+bike; the yellow-sun rebirth lets it float away. She does not dramatically take it
+off. It simply cannot come with her into the person she is choosing to be.
+
+**The camera loves life and refuses to love death.** The ethic and the aesthetic
+must agree (see: DCU, not DCEU), and the camera is where they meet. Creatures,
+markets, food, weather, Krypto's ears in wind — shot with delight. Violence — shot
+with weight. Lobo's ninety seconds are staged as horror-through-ease: no needle
+drop, no slow-mo glory, just the awful frictionlessness of it. The most fun
+character in the movie doing the least fun thing in it, and the frame declining to
+celebrate. If a death in this film looks cool, the shot is wrong.
+
+**Kara is the alien.** Superman's story is an alien becoming human; his palette is
+Kansas. Kara was born in space, raised in a floating city, and is *comfortable* in
+the weird — the bus terminal is her element, she knows which vendor to trust and
+which line moves. Earth is the strange planet. Her ease in the universe's chaos is
+character rendered as blocking and production design — and it's why the mid-credits
+"it's good to be... home" costs something. Home is the one place in the universe
+where she's the alien.
+
+**Recurring motif: hands.** Krem's hand helping itself to pie. Kara's hand on the
+drop-shell glass. Her hand on Ruthye's shoulder in the washroom. Ruthye's hands
+aligning the tracker with the public spacemap, proving competence without a speech.
+The sword in two hands, and the chain, not the neck. The film's thesis is about what
+you choose to do with capacity; hands are capacity in close-up.
+
+**The production trade, stated plainly.** This direction is cheaper than the
+fight-heavy version in VFX shot count and more expensive per shot in design —
+creature work and world-building over destruction sims. That is the *Guardians*
+trade, not the *Man of Steel* trade, and it is the trade this film's studio is
+already tooled for. The money is on screen either way; here it buys wonder instead
+of collision.
