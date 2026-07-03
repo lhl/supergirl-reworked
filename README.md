@@ -278,19 +278,19 @@ Ruthye's tracker points down.
 
 They descend.
 
-TBD (tracking the dot, they aren't far)
+The tracker dot isn't far, which is worse. Close means they don't have the luxury of waiting. In the sky, a blue flame arc streaks toward the same direction they're headed. Kara and Rhuthye look at each other: another mystery, moving faster than either of them can afford to think about.
 
-In the sky, a blue flame arc streaks towards the direction they're headed. Kara and an Rhuthye look at each other, another mystery.
+The world looks like Argo at the end, but a whole planet. Kara is grim — lack of sunlight, flashbacks, alcohol withdrawal, the medbay countdown still in her head. All of it. She's in bad shape.
 
-The world looks like Argo at the end, but a whole planet. Kara is grim - lack of sunlight? flashbacks? alcohol withdrawal? All of the above? She's in bad shape.
+The trail leads into old Brigand infrastructure: depot, bunker, transit spine, whatever remains of a civilization that learned to move supplies after it stopped knowing how to make a home. Krem's crew hasn't set a mastermind trap; they have simply reactivated dead-world defenses because that is what this place was built to do. Automated turrets, pressure mines, old perimeter guns coughing back to life, machines with no ideology and no mercy.
 
----
+This is where **Kara protects Rhuthye** gets its home. Rhuthye wants to move toward the tracker. Kara keeps putting herself between the kid and the fire. She wraps Rhuthye in her arms through a turret burst, takes shrapnel across the back, drags her behind broken concrete, then hauls her onto a piggyback run when the ground starts detonating under them. It is not clean superspeed; it's a ruined, depleted approximation of it — Kara stumbling through gunfire, shielding Rhuthye with her own body, getting beaten to hell by machines she could have ignored at full power.
 
-The trail leads into old Brigand infrastructure: depot, bunker, transit spine, whatever remains of a civilization that learned to move supplies after it stopped knowing how to make a home... 
+Rhuthye hates it. Not because she is ungrateful, but because every save feels like being made small. She came to kill Krem. Kara keeps making her a child.
 
-There's smoke, and then a giant explosion and the sounds on gunfire.
+Then: smoke, a giant explosion, and the sound of gunfire from ahead — not the automated kind. Something alive is tearing through the Brigands.
 
-Kara picks up Rhuthye on piggyback and runs, not quite superspeed for the last few kilometers... barely standing, heaving against the whole as she gets to the ruckus, explosions and flames licking around, literally running on fumes.
+Kara adjusts Rhuthye on her back and runs the last stretch, barely standing, heaving against the world as she reaches the ruckus, explosions and flames licking around them, literally running on fumes.
 
 ---
 
@@ -298,7 +298,7 @@ Kara picks up Rhuthye on piggyback and runs, not quite superspeed for the last f
 
 *Act II. Kara is depleted. Ruthye is hardening. The Brigands apparently have their own problems.*
 
-Lobo is there, literally tearing a Brigand in half, laughing. Here's here for the bounty, but he loves it when they fight back. He rips through the Brigands effortlessly, cheerfully, the way a man swats flies. Bodies everywhere. One liners zining. The audience watches the most likable guy in the movie do the thing the movie has been agonizing over, and it takes him about ninety seconds. The ease is the horror. The ease is also the temptation.
+Lobo is there, literally tearing a Brigand in half, laughing. He's here for the bounty, but he loves it when they fight back. He rips through the Brigands effortlessly, cheerfully, the way a man swats flies. Bodies everywhere. One-liners zing. The audience watches the most likable guy in the movie do the thing the movie has been agonizing over, and it takes him about ninety seconds. The ease is the horror. The ease is also the temptation.
 
 He ends up with Krem by the back of the head. Krem is sniveling, begging for his life — the philosopher of cruelty reduced to pleading the instant his own thesis is applied to him. This is a turning point for Krem: the man who told a thirteen-year-old girl "this is what the world is" just proved his philosophy is a lie, because when the world came for *him*, he didn't accept it. He begged. This hollows him. By the climax, he won't be the same man. Lobo is about to finish it — casual, meaningless to him, another corpse on a planet full of them.
 
@@ -510,8 +510,26 @@ Kara gathers Ruthye and the antidote, and they launch back toward the rest stop 
 
 The 2026 version is built like a chase that keeps needing new reasons not to be over. This version is built like a vise: every sequence tightens the same question until the only remaining action is a choice.
 
+## Runtime Shape
 
+*Target: roughly the 2026 film's 108 minutes, with action compressed so the emotional scenes can breathe. The clean version probably lands around 110 minutes.*
 
+| Section | Approx. Runtime | Purpose / Breathing Room |
+|---|---:|---|
+| Cold open: Rhuthye's home, Krem's off-ramp, father's murder | 7–9 min | Let Krem feel like a person before the murder, and make Rhuthye's rage a choice born in real time. |
+| Kara morning: nightmare fragments, Clark voicemail, red-sun avoidance | 4–5 min | Establish grief and avoidance before Rhuthye ever says she has a mother and brother. |
+| First meeting / bar / tracker collision / Krypto poisoned | 14–16 min | Inciting sequence; the action can move fast, but Kara's *go home* and Rhuthye's defiance need room. |
+| Ship countdown / failed yellow-sun sprint | 6–8 min | Pressure-cooker intimacy: Kara trying every practical solution while Rhuthye watches her panic without collapsing. |
+| Rest stop: doctor, mechanic, info desk, washroom, bus boarding | 10–12 min | The main decompression pocket. Let logistics become character: diagnosis, impossible repair, star maps, tear-wipe. |
+| Bus confession / dead-world drop-shell | 8–10 min | Quiet confession, then tonal pivot into the glint of sun, Lobo breadcrumb, and nuclear-winter descent. |
+| Dead-world trail / automated-defense trap | 6–8 min | Gives Kara's protect-Rhuthye beat an explicit home and physically depletes her before Lobo. |
+| Lobo sequence: carnage, Krem offered, slash, ultimatum, sun rebirth | 15–18 min | Emotional/action centerpiece. Lobo's violence is fast; the aftermath, flashback, and solar rebirth breathe. |
+| Act III approach / Krem non-fight / Rhuthye's choice | 14–16 min | Full-power Kara makes the fight irrelevant; silence and suspense belong around Rhuthye's sword choice. |
+| Return to rest-stop clinic / Krypto antidote | 3–4 min | Needle, breath, relief. No speech needed. |
+| Birthday ending | 5–6 min | Warmth has to land; give Rhuthye's first giggle space. |
+| Mid-credits Kara in Metropolis | 2–3 min | Quiet resolution: present, not numb, choosing home. |
+
+**Estimated total:** 94–115 minutes by range, with a practical target around **108–112 minutes**. The action beats should be shorter than the emotional beats: Lobo is horrifying because he's efficient, the climax is powerful because it's a non-fight, and the movie earns its runtime by letting Kara/Rhuthye scenes breathe.
 
 ---
 
