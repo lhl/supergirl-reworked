@@ -1,3 +1,4 @@
+https://claude.ai/chat/29789550-ac73-4096-9e06-85ce326184fc
 
 > The new Supergirl movie is based off of a highly regarded comic story (Woman of Tomorrow) and it starts off relatively close but it sort of loses its way a bit after the nth fight scene and ends with Supergirl killing the villain (which definitely doesn’t happen in the original story, was sort of the point that she doesn’t). The movie is extra sour it seems trying to justify/set it up but in the end you’re just sort of left with a whatever feeling. I’m still trying to pin down what exactly went wrong with it. Seems more Snyderverse than James Gunn. Something that should have been fun and emotional… really just was dour and boring.
 
@@ -150,3 +151,15 @@ It also solves two problems we'd otherwise be carrying. First, the **levity budg
 And there's a thematic layer that makes it more than taste: the film's palette becomes the argument. Dead red light on the bar world → riotous, teeming, ridiculous *life* at the rest stop and on the bus → every drop of color drained on the gray Brigand homeworld → blinding yellow rebirth → the warm homestead. The wild aliens aren't decoration; they're "life insists on itself" made visible, and the dead world lands harder because we just spent twenty minutes in a universe bursting with absurd creatures. Plus the character note you already named: Superman is Kansas — his story is an alien becoming human. Kara was born in space, raised in a floating city, and is *comfortable* in the weird; the bus terminal is her element and Earth is the strange planet. She knows her way around these places. That's not just texture, it's why the mid-credits "it's good to be... home" costs her something — home is the one place in the universe where she's the alien.
 
 One production-reality footnote: this direction is cheaper than the fight-heavy version in VFX shot count but more expensive per shot in design — creature work and world-building over destruction sims. That's the *Guardians* trade rather than the *Man of Steel* trade, and it happens to be the trade Gunn's DCU is already tooled for, which is a decent argument for the pitch deck. Want me to add a "Visual Language" section to the bible capturing the palette arc and the whimsy-not-cantina rule, along with the timing map?
+
+---
+
+(our rework is done before looking at any of these)
+
+- https://variety.com/2026/film/features/supergirl-writer-ana-nogueira-comic-changes-wonder-woman-1236790034/
+  - Krypto is her home
+  - Proof they added the child-trafficking just to justify killing him at the end and as a plot device
+- https://www.looper.com/2202880/supergirl-2026-movie-comic-book-changes/
+- https://www.reddit.com/r/Supergirl/comments/1ue6871/spoilers_supergirl_2026_movie_x_woman_of_tomorrow/
+- https://screenrant.com/supergirl-movie-biggest-comic-changes-women-of-tomorrow/
+- https://www.youtube.com/watch?v=VXdaOo7CLyg
