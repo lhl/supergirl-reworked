@@ -567,7 +567,9 @@ Her face in the reflection: sad, but present. Not numb. Not drinking. Feeling it
 
 A breath.
 
-*"It's good to be... home."*
+*"Still, it's good to be... home."*
+
+Looking at Krypto in the reflection being a terror (who her true home is).
 
 She's not sure yet. She might not be sure for a long time. But she's here, and she's choosing to stay — not hiding on a red-sun world, not dodging Clark's calls, not reaching for the bottle before her eyes open. Engagement, not avoidance. Integration, not numbness.
 
