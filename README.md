@@ -127,7 +127,7 @@ Three survivors of dead worlds run three responses to catastrophe — Kara's num
 ## Story Spine
 
 **Act I — Avoidance causes the wound.**
-Kara is hiding on Evely, a red-sun world, because powerlessness is numbness. Evely is Ruthye's world too: the cold-open homestead is local, and the Brigands are still dirtside because she stole the fuel core their ship needs. She tracks them to the port bar seeking muscle, not permission. Kara tells her to go home; Ruthye turns on the tracker; Krem walks through the door. In the brawl, Krypto takes a poison bolt meant for Kara — Brigand-tipped, not kryptonite. The medbay identifies poison and gives a countdown; only the antidote will save him, and Krem has it on his body. Krem recovers the fuel core and escapes in his own ship. Kara's ship is not the target; it is just the nearest bad hospital and her first desperate way to reach a yellow sun. When Kara redlines the drive for the closest yellow star, they still cannot make it. The burned-out ship limps into a rest stop to refuel/repair, where Krypto stays in the dock medbay. Kara still has flashes of power, but she is too depleted and impaired to stop Krem — *by her own choice to hide.* The intergalactic bus becomes the only way Kara and Ruthye can keep moving. Ruthye leaves behind a living mother and younger brother to pursue Krem — off her own world for the first time, choosing the road over the life she has. Quest = penance + a ticking poison clock.
+Kara is hiding on Evelie, a red-sun world, because powerlessness is numbness. Evelie is Ruthye's world too: the cold-open homestead is local, and the Brigands are still dirtside because she stole the fuel core their ship needs. She tracks them to the port bar seeking muscle, not permission. Kara tells her to go home; Ruthye turns on the tracker; Krem walks through the door. In the brawl, Krypto takes a poison bolt meant for Kara — Brigand-tipped, not kryptonite. The medbay identifies poison and gives a countdown; only the antidote will save him, and Krem has it on his body. Krem recovers the fuel core and escapes in his own ship. Kara's ship is not the target; it is just the nearest bad hospital and her first desperate way to reach a yellow sun. When Kara redlines the drive for the closest yellow star, they still cannot make it. The burned-out ship limps into a rest stop to refuel/repair, where Krypto stays in the dock medbay. Kara still has flashes of power, but she is too depleted and impaired to stop Krem — *by her own choice to hide.* The intergalactic bus becomes the only way Kara and Ruthye can keep moving. Ruthye leaves behind a living mother and younger brother to pursue Krem — off her own world for the first time, choosing the road over the life she has. Quest = penance + a ticking poison clock.
 
 **Act II — Endurance, not spectacle.**
 Mostly depowered, but never in a way that requires arithmetic. The relationship carries the film. The mechanics are deliberately mundane: medbay countdown, failed yellow-sun sprint, burned-out drive component, rest-stop information desk, public transit drop-shell to the edge of Bilki. Three load-bearing beats escalate Ruthye from passenger to agent:
@@ -149,7 +149,7 @@ Power returns under the yellow sun, reframing the climax: not "can she win" but 
 
 ## Cold Open — "This Is What the World Is"
 
-Evely, a red-sun farm world. Ruthye's homestead. A kitchen table. The family mid-meal — father, mother, Ruthye (13), her younger brother (5 or 6). Ordinary domestic warmth: the kind of life that exists because someone chose to build it.
+Evelie, a red-sun farm world. Ruthye's homestead. A kitchen table. The family mid-meal — father, mother, Ruthye (13), her younger brother (5 or 6). Ordinary domestic warmth: the kind of life that exists because someone chose to build it.
 
 Krem enters with a few of his men. He doesn't break down the door. He sits. Helps himself to pie. He needs weapons, supplies — practical demands delivered as though he's entitled to the hospitality. His men fan out through the house.
 
@@ -181,7 +181,7 @@ The quest begins here: not when she meets Kara, not when she picks up a sword, b
 
 ## Kara's Morning — The Nightmare and the Voicemail
 
-Cut from Ruthye's rage to silence. Kara, asleep — on her ship, or in a rented room in Evely's port town. Same world, same red sun: Ruthye's rage and Kara's hangover are neighbors, two lives not yet touching. Not peaceful. A nightmare: Argo dying. Her parents' faces. The last moments she can't stop replaying. Fragmentary, visceral — not a full flashback, just the images that won't let go.
+Cut from Ruthye's rage to silence. Kara, asleep — on her ship, or in a rented room in Evelie's port town. Same world, same red sun: Ruthye's rage and Kara's hangover are neighbors, two lives not yet touching. Not peaceful. A nightmare: Argo dying. Her parents' faces. The last moments she can't stop replaying. Fragmentary, visceral — not a full flashback, just the images that won't let go.
 
 She wakes gasping. Reaches for the bottle before her eyes are open. That tells you everything about how long this has been going on.
 
@@ -195,7 +195,7 @@ This sequence does one job: by the time Kara meets Ruthye and hears "I have a mo
 
 ## First Meeting — "Go Home"
 
-A bar in Evely's port town. Kara is drunk — not charmingly, not as a bit. Avoidance wearing a glass. She wears the battered oversized leather jacket she'll carry through most of the movie: too big, beat to hell, half armor and half blanket. The physics and the addiction rhyme: the longer she stays under the red sun, the weaker she gets; the more she drinks, the less able she is to marshal whatever strength remains.
+A bar in Evelie's port town. Kara is drunk — not charmingly, not as a bit. Avoidance wearing a glass. She wears the battered oversized leather jacket she'll carry through most of the movie: too big, beat to hell, half armor and half blanket. The physics and the addiction rhyme: the longer she stays under the red sun, the weaker she gets; the more she drinks, the less able she is to marshal whatever strength remains.
 
 Ruthye walks in already on the hunt. A ruffian gets in her way and she disarms him — clean, one-on-one, no hesitation. Not a trained fighter, but cold and serious in a way that makes grown men recalculate. She's thirteen and she just won a barfight. The room notices.
 
@@ -221,11 +221,13 @@ The brawl is immediate and ugly. Kara is not instantly powerless, but she has be
 
 That is the inciting wound. No kryptonite, no special anti-Kryptonian trick — the Brigands tip their weapons with a raider's poison, the kind built to drop tough targets. It's what they use. The antidote exists because Brigands carry it for their own people (friendly fire, accidents). The clock is set: hours of function, then stasis or death. The dock medbay can slow the collapse; it cannot make the deadline go away.
 
-They get Krypto back to Kara's ship because it is the closest thing Kara has to a hospital and a way off-world. The ship is nearby because Kara has been living out of it; the Brigands do not need it and do not need to steal it. They have their own ship — faster, crewed, loaded, already pointed at escape. Krem recovers the fuel core Ruthye stole from him — the thing he came for, the thing that had him pinned on Evely — and leaves in his own vessel with the antidote on his body. Ruthye still has the tracker.
+They get Krypto back to Kara's ship because it is the closest thing Kara has to a hospital and a way off-world. The ship is nearby because Kara has been living out of it; the Brigands do not need it and do not need to steal it. They have their own ship — faster, crewed, loaded, already pointed at escape. Krem recovers the fuel core Ruthye stole from him — the thing he came for, the thing that had him pinned on Evelie — and leaves in his own vessel with the antidote on his body. Ruthye still has the tracker.
 
 Kara's medbay is not a solution, but it is useful enough to be cruel. It identifies poison in Krypto's system, estimates the irreversible-collapse window, and turns the emergency into numbers on a screen. It cannot synthesize the cure. Under a red sun, with Kara impaired and the ship half-neglected, the medbay gives them a countdown, not hope.
 
-So they launch because staying means watching Krypto die. Kara's first instinct is not revenge or pursuit; it is to get Krypto to the closest yellow sun as fast as the ship can go. She redlines the drive trying to outrun the poison and fails. The ship burns through its fuel, overheats the jump system, and drops them at the nearest place that can refuel or repair anything: an intergalactic rest stop / transit hub. There, a dock-healer/diagnostic rig confirms the specific type: Brigand poison. Antidote-specific. Not something Kara can punch or sunbathe away. The healer also gives the useful, awful detail: Brigands carry the antidote on their bodies, because their own weapons are as dangerous to them as to anyone else. Kara's ship has gotten them off the red-sun world, but it cannot keep going until it is refueled and repaired. The chase becomes public transit by necessity, not whim. Kara still has not agreed to Ruthye's revenge quest. She goes because Krypto is dying, because Krem has the only cure on him, and because her chosen powerlessness put everyone in this room within reach of a monster.
+So they launch because staying means watching Krypto die. Kara's first instinct is not revenge or pursuit; it is to get Krypto to the closest yellow sun as fast as the ship can go. 
+
+She explains this to Rhuthye and the audience ("under the red sun, we get weak, the a yellow sun can heal us.") She redlines the drive trying to outrun the poison and fails. The ship burns through its fuel, overheats the jump system, and drops them at the nearest place that can refuel or repair anything: an intergalactic rest stop / transit hub. There, a dock-healer/diagnostic rig confirms the specific type: Brigand poison. Antidote-specific. Not something Kara can punch or sunbathe away. The healer also gives the useful, awful detail: Brigands carry the antidote on their bodies, because their own weapons are as dangerous to them as to anyone else. Kara's ship has gotten them off the red-sun world, but it cannot keep going until it is refueled and repaired. The chase becomes public transit by necessity, not whim. Kara still has not agreed to Ruthye's revenge quest. She goes because Krypto is dying, because Krem has the only cure on him, and because her chosen powerlessness put everyone in this room within reach of a monster.
 
 The scene establishes: Kara is the broken one, not the wise one. Ruthye is the composed one, not the helpless one. The power dynamic is inverted from the start — the adult is a mess and the child has a mission. And "go home" is planted as the line the whole movie bends toward: Ruthye can't hear it yet, but the audience will remember it when she finally chooses to. Importantly, the movie saves the "Ruthye sneaks after Kara" card for later, when Kara is genuinely trying to send her home; Act I proves Ruthye belongs in the plot without repeating that move early.
 
@@ -239,9 +241,9 @@ The bonding isn't a speech. It's proximity — and logistics.
 
 On Kara's ship, before the rest stop, there is time for the first forced intimacy: the medbay counting down in the background, Krypto breathing in little mechanical assists, Kara pretending she knows which warning light matters, Ruthye watching an adult fail without falling apart. Kara is all motion — rerouting power, swearing at the drive, trying to make the ship do one impossible thing. Ruthye is stillness. She reads the tracker, reads Kara, and starts to understand that this woman is not refusing revenge because she feels less. She may feel too much.
 
-They limp into an intergalactic rest stop: alien truckstop energy, somewhere between a bus terminal, a refueling dock, a clinic, and a market bazaar. A mechanic tells Kara the ship can be refueled, but the real problem is the burned-out drive component — we recognize it as Kara's version of the Brigand drive crystal, coil, seed-core, whatever the local tech calls it. It doesn't grow on trees. Or maybe, annoyingly, it *does* grow: in a vat, over hours. Tomorrow, maybe. The dock-healer tells her the same thing the medbay and failed yellow-sun sprint implied, now with a name: Brigand poison. Krypto needs the antidote Brigands carry on their bodies, not better monitoring and not just sunlight. The antidote clock does not have a tomorrow. The ship stays docked. Krypto stays in the dock medbay now — a slight reprieve, but condition worsening. Kara promises to return with the antidote, or to die trying.
+They limp into an intergalactic rest stop: alien truckstop energy, somewhere between a bus terminal, a refueling dock, a clinic, and a market bazaar. A mechanic tells Kara the ship can be refueled, but the real problem is the burned-out drive component — we recognize it as Kara's version of the Brigand drive crystal, coil, seed-core, whatever the local tech calls it. It doesn't grow on trees. Or maybe, annoyingly, it *does* grow: in a vat, over days. Next week, maybe. The dock-healer tells her the same thing the medbay and failed yellow-sun sprint implied, now with a name: Brigand poison. Krypto needs the antidote Brigands carry on their bodies, not better monitoring and not just sunlight. The antidote clock does not have a tomorrow. The ship stays docked. Krypto stays in the dock medbay now — a slight reprieve, but condition worsening. Kara promises to return with the antidote, or to die trying.
 
-So the cosmic road trip becomes humiliatingly mundane: Supergirl and a vengeance-bound thirteen-year-old, boarding an intergalactic bus.
+So the cosmic road trip becomes humiliatingly mundane: Supergirl and a vengeance-bound thirteen-year-old, boarding an intergalactic bus. (That being said, Rhuthye has never been off-world and this is the first time to take it all in. It should be a juxtaposition of weird and mundane - we're seeing it all for the first time and it should be instantly recognizable, but also totally weird.)
 
 At the information desk, Ruthye lines the tracker up with the public spacemap. The route resolves: not a bar, not a second-family betrayal detour, not another disposable side-quest — a dead-zone world under travel advisory. Nuclear winter. Collapsed biosphere. The attendant gives them the look every bus-terminal employee gives doomed travelers.
 
@@ -259,6 +261,8 @@ The attendant hates that the answer is yes.
 
 *"Technically."*
 
+(Reaction beat: Ruthye expecant, wide-eyed. Kara with a triumphantly goofy grin.)
+
 That feels right. Krem isn't headed to a lair because the plot needs one; he's headed back to the graveyard that made him. The Brigands use their dead world as a depot, a hideout, a dare, a wound they keep picking. A people who survived the end by becoming the kind of people who could live in the ruins.
 
 Kara and Ruthye need supplies: food, bus tickets bought with whatever Kara has left after paying for the dock and the diagnosis. The mundane logistics of a road trip through space. Kara knows her way around these places; Ruthye doesn't. The dynamic is parent-dragging-teenager-through-errands, except the teenager has a sword.
@@ -270,6 +274,8 @@ Small things: Kara buys something Ruthye didn't ask for (food she noticed her ey
 ---
 
 The bus takes off , out of frame, and we see a refocus to the  bulletin board has Krem's face, among others - on a faded posting - BRIGANDS, WANTED: DEAD OR ALIVE. We see a flash of a giant white hand (and a chain) ripping the paper.
+
+(alternate, this is an unspecified amount of time later - funny attendant interaction w/ Lobo; places it down, the paper and gets the location - you missed the last bus, next one is tomorrow. No need... How much we want to show, if we have the blue flame of the bike, etc is something we can debate, depends on how we want to do the reveal.)
 
 ---
 
@@ -299,6 +305,8 @@ Unconsciously, Kara has taken her flask out again, and looks at it long and hard
 
 Ruthye doesn't respond. The scene doesn't resolve. The confession just sits between them, and the road continues. But something has shifted — Ruthye can't pretend Kara is just a drunk with opinions anymore. She's been there. She came back. She's still coming back.
 
+Ruthye looks outside the bus window, we haven't noticed but it's actually beautiful, nebulas and stars, a myriad of colors, but also cold emptiness.
+
 ---
 
 ## The Brigand Trail — Bilki, the Dead World
@@ -315,6 +323,8 @@ The driver shrugs, already pressing the eject control.
 
 For one clean second as the shell falls away from the bus, the yellow sun catches on its curved surface — a tiny, impossible glint of life above the planet. Kara presses her hand against the clear orbital shell, not because it will work, but because she needs it to: a reflexive, almost childish attempt to drink in even a thread of solar energy through the glass. 
 
+Ruthye gives a meaningful look, she notices.
+
 Ruthye's tracker points down.
 
 They descend.
@@ -329,7 +339,7 @@ This is where **Kara protects Ruthye** gets its home. Ruthye wants to move towar
 
 Ruthye hates it. Not because she is ungrateful, but because every save feels like being made small. She came to kill Krem. Kara keeps making her a child.
 
-Then: smoke, a giant explosion, and the sound of gunfire from ahead — not the automated kind. Something alive is tearing through the Brigands.
+Then: smoke, a giant explosion, and the sound of gunfire and screams from ahead. Something alive is tearing through the Brigands.
 
 Kara adjusts Ruthye on her back and runs the last stretch, barely standing, heaving against the world as she reaches the ruckus, explosions and flames licking around them, running on fumes.
 
@@ -341,7 +351,11 @@ Kara adjusts Ruthye on her back and runs the last stretch, barely standing, heav
 
 Lobo is there, literally tearing a Brigand in half, laughing. He's here for the bounty, but he loves it when they fight back. He rips through the Brigands effortlessly, cheerfully, the way a man swats flies. Bodies everywhere. One-liners zing. The audience watches the most likable guy in the movie do the thing the movie has been agonizing over, and it takes him about ninety seconds. The ease is the horror. The ease is also the temptation.
 
-He ends up with Krem by the back of the head. Krem is sniveling, begging for his life — the philosopher of cruelty reduced to pleading the instant his own thesis is applied to him. This is a turning point for Krem: the man who told a thirteen-year-old girl "this is what the world is" just proved his philosophy is a lie, because when the world came for *him*, he didn't accept it. He begged. This hollows him. By the climax, he won't be the same man. Lobo is about to finish it — casual, meaningless to him, another corpse on a planet full of them.
+We get an Action Comics shot of the Main Man, with a truck over his head, silhouetted by the glows of flames and slowmo explosion. It's glorious, iconic. Before he throws it down and we get grisly slick crunch as it crashes down, blood from from the front cabin oozing out, splattered against the windshield. There were of course *people* in there.
+
+We should start getting the idea that the carnage isn't just spectacle. It's murder. As he works his way through the final remnants (crushing one of the remaining suffering/begging dismemberedBrigands like an ant.  "please..." he begs, "your welcome" Lobo might say genially as he snuffs him out like you might crush an ant).
+
+He ends up with Krem, alone. (maybe kicking him, lifting him up and ready to squeeze) Krem is sniveling, begging for his life — the philosopher of cruelty reduced to pleading the instant his own thesis is applied to him. This is a turning point for Krem: the man who told a thirteen-year-old girl "this is what the world is" just proved his philosophy is a lie, because when the world came for *him*, he showed his strength was really just a facade. It turns out, he's a coward. By the climax, he won't be the same man. Lobo is about to finish it — casual, meaningless to him, another corpse on a planet full of them.
 
 Ruthye seeing this, is enraged. She calls out "You can't kill him." Cites the code. By her people's law, *she* has the right to vengeance.
 
@@ -351,7 +365,7 @@ Lobo stops. Looks at this thirteen-year-old girl who just told the Main Man to w
 
 Beat. (we see the landscape) Then the grin comes back. Main Man energy.
 
-*"You got moxie. I like that. I can tell — this guy's been eating you up. Today's your lucky day. I'm basically done here anyway, so I'm going to give this to you. Head on a platter. All yours. You'll feel great. Trust me."*
+*"You got moxie. I like that. I can tell — this guy's been eating you up. Today's your lucky day. I'm basically done here anyway, so I'm going to give this to you. All yours. You'll feel great. Trust me."*
 
 He roughly throws Krem down, on his knees, this will be execution. Krem looks at Ruthye, pleading, pathetic. She's having none of it. She steels her face. "This is what the world is" she says, Drawing her sword back, snarling.
 
@@ -375,17 +389,15 @@ Kara, fading: *"I had to save you. That's my code."*
 
 Two codes. Ruthye's demands she kill. Kara's demands she prevent it. One sword, and Kara's code cost her blood. The mirror the whole movie has been building — Ruthye is Kara at month one, Kara is Ruthye at year ten — collapses into a single image: the mentor bleeding from the student's blade, not because the student is evil but because grief almost made her something she isn't.
 
-Kara's eyes flutter. She's fading.
+Kara's eyes flutter, looks up at the faint light through the darkened nuclear winter sky. She's fading.
 
-*"The sun..."*
-
-Ruthye glances at Krem, she has to choose — right now, on her knees in the blood — between Krem disappearing with her revenge, and the woman bleeding out in front of her. It's not hard. She chooses Kara in an instant. She looks up at Lobo.
+Ruthye looks up too, and then glances at Krem, she has to choose — right now, on her knees in the blood — between Krem disappearing with her revenge, and the woman bleeding out in front of her. It's not that hard. She looks up at Lobo.
 
 *"Take us up to see the sun."*
 
 Lobo snorts. He doesn't do favors. He doesn't do *feelings.*
 
-*"Listen kid, the Main Man doesn't-"*
+*"Listen kid, the nobody tells the Main Man-"*
 
 Ruthye stands. The same iron she used to cite her father's code. The same girl who told the Main Man to wait.
 
@@ -395,13 +407,11 @@ She means it. She will die here before she watches Kara die. Lobo sees it — a 
 
 A beat. Lobo's face is unreadable.
 
-Then: *"Fine."*
+Then: *"Fine, get on"*
 
 Ruthye does not waste the half-second wondering if he means it. She hits the button on the self-deploying bubble space-suit ring Kara bought her at the rest stop. The bubble snaps open with an offensively cheerful little chime (*Deploying!*) around Ruthye — practical, ridiculous, lifesaving. A tiny callback to Kara's throwaway *"now you won't die in space"* becoming the thing that lets Ruthye save her.
 
 Lobo rolls his eyes, lifts and throws Kara over his shoulder in one go.
-
-*"Get on."* he says to Ruthye. He doesn't have to say it twice.
 
 Kara has a calm look on her face, she's made her peace with her decision - if this has cost her her life, it was worth it.
 
@@ -421,11 +431,13 @@ Father: *"Promise me you'll be good."*
 
 That's the thesis. Not a philosophical position Kara arrived at. A promise she made to a dying woman. Every time she steps between someone and a blade, every time she holds her own fire, every time she chooses restraint over the cold kill — she's keeping a promise. And every day she spent on the red-sun world, drinking, hiding, numbing — she was breaking it.
 
-(is "good" a state of mind, a philosophy, a measure of actions? an measure of self-love? - it should be multifaceted)
+(is "good" a state of mind, a philosophy, a measure of actions? an measure of self-love? - the answer is probably "yes")
 
 Cut back to the present. Lobo's space bike. They're rising through the dead atmosphere — nuclear winter, the sky choked, no sunlight reaching the surface. Another dead planet. This does a number on Kara's trauma: everywhere she goes, worlds are ending. But the yellow sun is *right there*, just above the atmosphere. No interstellar travel needed. Kara is slumped against the bike, the battered leather jacket torn open and wrapped around her almost like a death shawl. A tear floating weightless in space. Silence. The nuclear winter thinning around them.
 
 They break through into brilliant, blinding yellow light.
+
+(alternatively, we could skip the flight up - the flashback covers that time, and could skip to her opening her eyes, and taking that reflexive breath...)
 
 Kara's limp form floating (fetal like, certainly not cruciform), bright yellow light bathing her form. And she takes a reflexive breath — rebirth. Her body insisting on living the way her parents insisted she live. The wounds close. The sun does what the sun does. Life insists on itself. The jacket, finally too damaged to hold together, slips loose and drifts away behind her — the old hide, the death shawl, the thing she wrapped around herself to disappear. The metaphor doesn't need to be stated: from death to life, from avoidance to engagement, from the surface of a dead world into the sun. Kara feels it hit her. Power returning. And with power, everything she's been hiding from.
 
@@ -473,15 +485,15 @@ We spring back to real time and we hear Krem howl, the shockwave has blasted him
 
 Kara takes a beat, looks down, holding her fingers to her head. "Listen, I just want the antidote to save-"
 
-We see a huge red glow filling the screen and Kara looks up and we hear/see a explosion from Krem as the screen goes white.
+We see a huge red glow filling the screen and Kara looks up and we hear see Krem's arm gun sparking/exploding - fully overloaded for a kamikaze kill shot, the screen goes red and instantly white.
 
 We see a red arc across the sky, the concussive energy blast shooting past the horizon, with Supergirl nowhere to be seen.
 
-Panning back down, we see Ruthye standing over Krem now.  He's bleeding and burnt, and what's left of his arm and arm-gun is smoldering and charred, but the antidote still hanging around his neck unharmed.
+Panning back down, through the smoke, we see Ruthye walking over to Krem now. Menacing, badass.  He's bleeding and burnt, and what's left of his arm and arm-gun is smoldering and charred, but the antidote still hangs around his neck unharmed.
 
 She's looking down with that same determination from the cold open. Sword drawn. The same look she wore when she disarmed a ruffian in a bar. Nothing in her body language telegraphs mercy. Nothing suggests hesitation. The audience should be in genuine suspense about what will happen — because this girl has been building toward this moment for two hours, and everything about her says she's going to finish it.
 
-Krem looks at her. Not the evangelist from the cold open, not the philosopher who killed her father with deliberate spite. The man who begged for his life and watched his own philosophy collapse. He's tired. Hollowed out. Used up by the thing he built.
+Krem looks at her. Not the evangelist from the cold open, not the philosopher who killed her father with deliberate spite. The man who begged for his life and watched his own philosophy collapse. He's tired. Hollowed out.
 
 *"Just do it."*
 
@@ -493,9 +505,9 @@ She raises the sword.
 
 The audience holds its breath.
 
-She slashes — not his neck. The chain. She picks up the antidote and turns around.
+She slashes — not his neck. The chain. Antidote lifted on her blade, she turns around.
 
-Kara has been standing behind her (no worse the wear, this is Supergirl). How long has she been there? She didn't intervene. Who she have? Certainly she *could* have, but in the end, Ruthye choose. 
+Kara has been standing behind her (looking no worse the wear, this is Supergirl). How long has she been there? She didn't intervene. Certainly she *could* have... but *would* she have?
 
 The look on her face as Ruthye turns around with the antidote instead of blood on the blade: relief, mostly, but but proud of her as well. She's watching a thirteen-year old stepping off of Krem's path. Maybe avoiding her own as well.
 
@@ -505,13 +517,13 @@ Rutheye hands over the antidote, their hands, once again connected, and Kara hug
 
 *"Let's go home."* Ruthye says.
 
-They board the Brigand shuttle and they launch back toward the rest stop. We never see if Krem lives or dies. The movie doesn't show it because Ruthye doesn't look back, and the camera stays with her. His fate is irrelevant — not because it doesn't matter, but because *she's* not the one it matters to anymore. The film's refusal to show it is itself the thesis: the story was never about him.
+They board the Brigand shuttle and they launch back toward the rest stop. We never see if Krem lives or dies. The movie doesn't show it because Ruthye doesn't look back, and the camera stays with her. His fate is irrelevant. The film's refusal to show it is itself the thesis: the story was never about him.
 
 ---
 
 ## Ending — The Birthday
 
-Cut. Back at the rest-stop clinic, the antidote is injected into Krypto. No fanfare, no speech — just the needle, and the breath that follows. Life, chosen and saved. Kara's ship is there too, repaired enough to leave; the dock delay that stranded them now becomes the thing that can take them home.
+Cut. Back at the rest-stop clinic, the antidote is injected into Krypto. No fanfare, no speech — just the needle, and the breath that follows. Krypto lifts his head up, and Kara puts hers to his. Life, chosen and saved. Kara's ship is there too, repaired enough to leave, the Brigand ship's fuel crystal installed in her ship.
 
 Cut. Later, at Ruthye's homestead: extreme close-up of Krypto leaping into Kara, alive, warm, the reunion the whole film has been running toward. As we pull out of the close-up, we see it's not just Kara — Ruthye is beside her, and behind Ruthye stand her brother and her mother. Kara's repaired ship waits in the background. Home. The place Ruthye almost threw away.
 
@@ -637,10 +649,10 @@ The 2026 version is built like a chase that keeps needing new reasons not to be 
 **Over:** A weeping, traumatized child who needs rescuing.
 **Why:** A helpless Ruthye makes the movie a rescue story with Kara as the wise mentor. A cold Ruthye makes it a *mutual* story — two people at different mile-markers on the same road. The code is doing double work: it gives a thirteen-year-old standing and dignity (she has a legal claim, not just feelings), and it's armor over grief — a way to process unbearable loss as obligation instead of feeling. The code also becomes the thing she has to lay down at the climax: dropping the sword means admitting the code was grief all along.
 
-### Evely — Ruthye's homeworld is the red-sun world
-**Chose:** The cold-open homestead, the port bar, and Kara's hiding place are all one planet: Evely, a red-sun farm world. Ruthye tracks the Brigands overland to the port, and they are still there because she stole the fuel core their ship needs to leave.
+### Evelie — Ruthye's homeworld is the red-sun world
+**Chose:** The cold-open homestead, the port bar, and Kara's hiding place are all one planet: Evelie, a red-sun farm world. Ruthye tracks the Brigands overland to the port, and they are still there because she stole the fuel core their ship needs to leave.
 **Over:** Ruthye crossing interstellar space to hunt Krem before the film starts.
-**Why:** A thirteen-year-old tracking raiders across the galaxy raises questions the film would have to spend scenes answering (how does she travel, eat, follow a ship between stars?). Local is simpler and stronger: her competence is plausible — she knows her own world — and the bar collision stops being luck. The Brigands are pinned in port *by her theft*, so the villain walking through the door is a consequence of her agency, not a coincidence. It also tightens the film's geography: the cut from Ruthye's rage to Kara's hangover is two lives on the same world not yet touching, and the final image — the ship crossing Evely's fiery red sky — reclaims the same sun that lit Kara's avoidance as the ordinary light of Ruthye's home.
+**Why:** A thirteen-year-old tracking raiders across the galaxy raises questions the film would have to spend scenes answering (how does she travel, eat, follow a ship between stars?). Local is simpler and stronger: her competence is plausible — she knows her own world — and the bar collision stops being luck. The Brigands are pinned in port *by her theft*, so the villain walking through the door is a consequence of her agency, not a coincidence. It also tightens the film's geography: the cut from Ruthye's rage to Kara's hangover is two lives on the same world not yet touching, and the final image — the ship crossing Evelie's fiery red sky — reclaims the same sun that lit Kara's avoidance as the ordinary light of Ruthye's home.
 
 ### No kryptonite, no Kryptonian-knowledge requirement
 **Chose:** Krem doesn't know what Kara is. He's exploiting a drunk, depleted woman on a red-sun world.
@@ -740,7 +752,7 @@ the universe gets to be strange.
 
 **The palette is the argument.** Five movements:
 
-1. **Dead red** — Evely, the opening world. Flat, sodium-lamp light that makes everything look
+1. **Dead red** — Evelie, the opening world. Flat, sodium-lamp light that makes everything look
    embalmed. Kara's avoidance rendered as color grade.
 2. **Riotous life** — the rest stop and the bus. Maximum saturation, maximum
    invention, life insisting on itself in ridiculous forms. The film at its most
