@@ -147,6 +147,16 @@ Power returns under the yellow sun, reframing the climax: not "can she win" but 
 
 ---
 
+## Pacing / Timing Principle
+
+The clock is emotional pressure, not a stopwatch. Krypto's poisoning keeps a steady hum of urgency under the movie — Kara cannot simply wait days or weeks for the drive to regrow — but we should avoid a clean countdown that makes the audience do arithmetic. The deadline should feel like a tightening vise: enough time for scenes to breathe, never enough time to stop.
+
+This should play as a drama with cosmic-road-comedy texture, not a frenetic blockbuster. As much Wes Anderson as superhero chase: centered frames, odd details, precise comic timing, faces held a beat longer than plot efficiency would demand. The rest stop, bus, drop-shell, and dead-world approach are not connective tissue to rush through; they are where the relationship changes. Let the audience take in the sights — fluorescent deep-space commerce, public transit bureaucracy, strange passengers, star maps, alien snacks, the absurd politeness of doomed logistics.
+
+The action should compress while the aftermath expands. Fights can be ugly and efficient; choices need silence around them. Lobo's carnage is fast because ease is the horror, but the queasy pause afterward matters. Kara's yellow-sun rebirth should linger. Ruthye's final sword choice should be paced around looks, breath, and the audience realizing they want the wrong thing. The pace tightens as the drama tightens, but the movie earns its catharsis by letting actors carry emotion in stillness, not by sprinting from beat to beat.
+
+---
+
 ## Cold Open — "This Is What the World Is"
 
 Evelie, a red-sun farm world. Ruthye's homestead. A kitchen table. The family mid-meal — father, mother, Ruthye (13), her younger brother (5 or 6). Ordinary domestic warmth: the kind of life that exists because someone chose to build it.
@@ -279,7 +289,7 @@ Small things: Kara buys something Ruthye didn't ask for (food she noticed her ey
 
 The bus takes off, out of frame, and we refocus on a bulletin board: Krem's face, among others, on a faded posting — BRIGANDS, WANTED: DEAD OR ALIVE. We see a flash of a giant white hand (and a chain) ripping the paper.
 
-(Alternate: this is an unspecified amount of time later — funny attendant interaction with Lobo. He puts the paper down (These guys." and gets the location. "You missed the last bus; next one is tomorrow." "No need." How much we want to show — blue flame of the bike, etc. — is something we can debate, depending on how we want to do the reveal.)
+(Alternate: this is an unspecified amount of time later — funny attendant interaction with Lobo. He puts the paper down — *"These guys."* — and gets the location. *"You missed the last bus; next one is tomorrow."* *"No need."* How much we want to show — blue flame of the bike, etc. — is something we can debate, depending on how we want to do the reveal.)
 
 ---
 
@@ -583,7 +593,7 @@ The audience leaves with the sense that she's going to be all right.
 
 | Beat | Supergirl (2026) | This Version |
 |---|---|---|
-| **Opening image** | Kara mid–birthday bender, drunk/passed out in a bar; Clark's video voicemail establishes she's adrift. Grief as party-girl texture. | Cold open at Ruthye's kitchen table. Krem eats their food, tells his story, gets his off-ramp — and kills the father anyway, eyes locked on Ruthye: *"This is what the world is."* The thesis is wounded in scene one. |
+| **Opening image** | Kara mid–birthday bender, drunk/passed out in a bar; Clark's video voicemail establishes she's adrift. Grief as party-girl texture. | Cold open at Ruthye's kitchen table. Krem eats their food, tells his story, gets his off-ramp — and kills the father anyway, eyes locked on Ruthye: *"This is what the world is."* The film's central wound is opened in scene one. |
 | **The family** | Entire family killed — father, mother, older brother. Ruthye spared for no stated reason. The father mines Krem's ship *after* his wife dies but before he does (why not before?). Revenge becomes her default state. | Only the father dies, deliberately, as a lesson aimed at Ruthye's defiance. Mother and younger brother (5–6) survive. Revenge is now a *choice made over a living family* — every day on the road is a day she's not home. |
 | **Kara's coping** | The drinking and red-sun drifting are attitude and plot lubricant; the *why* is withheld until a mid-film flashback. | Front-loaded: nightmare fragments, the bottle before her eyes open, Clark's voicemail heard and not returned. Red sun = avoidance made physical. The audience knows what "I have a mother and a brother" will do to her before she hears it. |
 | **First meeting** | Ruthye walks into the bar seeking help, gets her sword confiscated; Kara brawls outside, refuses her; Ruthye tracks her down at a spaceship trailer park the next morning. | Ruthye wins her own barfight — cold, composed, seeking muscle, not rescue. Kara asks about family, cracks, says **"go home."** Ruthye has the stolen drive crystal that pins Krem on Evelie; separately, she switches on the tracker keyed to a taken family weapon. It burns bright. Krem is *here*. |
@@ -608,24 +618,24 @@ The 2026 version is built like a chase that keeps needing new reasons not to be 
 
 ## Runtime Shape
 
-*Target: roughly the 2026 film's 108 minutes, with action compressed so the emotional scenes can breathe. The clean version probably lands around 110 minutes.*
+*The runtime is whatever the vise needs — there is no external clock to match. Action compresses, aftermath expands, and the section lengths themselves shrink as the film accelerates toward the choice. One guardrail: breathing room is precision, not duration. Wes Anderson's films are short (Grand Budapest: 99 min) because the lingering happens inside the frame — a face held three extra seconds costs nothing; a scene held three extra minutes costs everything. The growth below goes only where the mandate lives: the cold open's accumulating dread, the rest stop's fluorescent comedy, the bus's first-time-off-world wonder, the birthday's warmth. Everything from the dead-world trail onward stays taut and should be defended against expansion.*
 
 | Section | Approx. Runtime | Purpose / Breathing Room |
 |---|---:|---|
-| Cold open: Ruthye's home, Krem's off-ramp, father's murder | 7–9 min | Let Krem feel like a person before the murder, and make Ruthye's rage a choice born in real time. |
-| Kara morning: nightmare fragments, Clark voicemail, red-sun avoidance | 4–5 min | Establish grief and avoidance before Ruthye ever says she has a mother and brother. |
-| First meeting / bar / tracker collision / Krypto poisoned | 14–16 min | Inciting sequence; the action can move fast, but Kara's *go home* and Ruthye's defiance need room. |
+| Cold open: Ruthye's home, Krem's off-ramp, father's murder | 9–12 min | The farmhouse scene. Dread accumulates in real time through pauses; the murder lands because the off-ramp was visibly there long enough for the audience to relax into it. Let Krem feel like a person, and make Ruthye's rage a choice born in real time. |
+| Kara morning: nightmare fragments, Clark voicemail, red-sun avoidance | 4–6 min | Establish grief and avoidance before Ruthye ever says she has a mother and brother. Stillness sequence — silence over exposition. |
+| First meeting / bar / tracker collision / Krypto poisoned | 15–17 min | Inciting sequence; the brawl can move fast, but Kara's *go home*, Ruthye's defiance, and the crack in Kara need room. |
 | Ship countdown / failed yellow-sun sprint | 6–8 min | Pressure-cooker intimacy: Kara trying every practical solution while Ruthye watches her panic without collapsing. |
-| Rest stop: doctor, mechanic, info desk, washroom, bus boarding | 10–12 min | The main decompression pocket. Let logistics become character: diagnosis, impossible repair, star maps, tear-wipe. |
-| Bus confession / Bilki drop-shell | 8–10 min | Quiet confession, then tonal pivot into the glint of sun, Lobo breadcrumb, and nuclear-winter descent. |
-| Dead-world trail / automated-defense trap | 6–8 min | Gives Kara's protect-Ruthye beat an explicit home and physically depletes her before Lobo. |
-| Lobo sequence: carnage, Krem offered, slash, ultimatum, sun rebirth | 15–18 min | Emotional/action centerpiece. Lobo's violence is fast; the aftermath, flashback, and solar rebirth breathe. |
+| Rest stop: doctor, mechanic, info desk, washroom, bus boarding | 12–15 min | The comedy engine and main decompression pocket — fluorescent commerce, transit bureaucracy, the absurd politeness of doomed logistics. It works *because* the Krypto clock hums underneath: comedy against a deadline, not instead of one. |
+| Bus confession / Bilki drop-shell | 10–12 min | Ruthye's first time off-world — recognizable but totally weird, strange passengers, the wonder — then the quiet confession, the glint of sun, Lobo breadcrumb, and nuclear-winter descent. |
+| Dead-world trail / automated-defense trap | 7–9 min | Krem's nihilism as landscape; lingering wides. Gives Kara's protect-Ruthye beat an explicit home and physically depletes her before Lobo. |
+| Lobo sequence: carnage, Krem offered, slash, ultimatum, sun rebirth | 15–18 min | Emotional/action centerpiece. Lobo's violence is fast because ease is the horror; the aftermath, flashback, and solar rebirth breathe. |
 | Act III approach / Krem non-fight / Ruthye's choice | 14–16 min | Full-power Kara makes the fight irrelevant; silence and suspense belong around Ruthye's sword choice. |
 | Return to rest-stop clinic / Krypto antidote | 3–4 min | Needle, breath, relief. No speech needed. |
-| Birthday ending | 5–6 min | Warmth has to land; give Ruthye's first giggle space. |
+| Birthday ending | 5–7 min | Warmth has to land; give Ruthye's first giggle the room around it. |
 | Mid-credits Kara in Metropolis | 2–3 min | Quiet resolution: present, not numb, choosing home. |
 
-**Estimated total:** 94–115 minutes by range, with a practical target around **108–112 minutes**. The action beats should be shorter than the emotional beats: Lobo is horrifying because he's efficient, the climax is powerful because it's a non-fight, and the movie earns its runtime by letting Kara/Ruthye scenes breathe.
+**Estimated total:** 102–127 minutes by range, with a practical target around **115–118 minutes**. The structural math holds at the slower pace: the inciting wound lands around minute 27, the yellow-sun rebirth ends around minute 85 (~72% — where an Act II climax belongs), and Act III gets a full 30 minutes. The action beats stay shorter than the emotional beats — Lobo is horrifying because he's efficient, the climax is powerful because it's a non-fight — and from the dead-world trail onward the sections literally get shorter, so the film itself accelerates as the vise closes.
 
 ---
 
