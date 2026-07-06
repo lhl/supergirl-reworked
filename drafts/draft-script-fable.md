@@ -785,9 +785,18 @@ It buys hours, friend. Perhaps a day of hours. It does not buy weeks.
 
 ### 15. INT. OASIS STATION — DOCK MECHANIC'S BAY — SAME TIME-FRAME
 
+**MECHANIC**
+Two weeks. Give or take.
+
 The MECHANIC — squat, four-armed, an apron of scorch marks, chewing something that occasionally chews back — holds up the corpse of Kara's DRIVE COIL: a blackened, vaguely organic spiral, like a burnt fern.
 
+**KARA**
+You've got to be kidding me. I don't have two —
+*(the healer's words still ringing in her ears)*
+I don't have *weeks.* I have hours.
+
 **MECHANIC**
+*(turning the coil over)*
 Cooked. You boiled the seed. What did you *do* to it?
 
 **KARA**
@@ -797,19 +806,13 @@ Asked nicely.
 *(sniffing the coil)*
 You asked it to die and it agreed.
 *(shrug)*
-I can grow you a new one. Vat's out back.
+I can grow you a new one. Vat's out back. Two weeks.
 
 **KARA**
-Grow. Fine. How long?
+*Hours.*
 
 **MECHANIC**
-Fourteen days.
-
-**KARA**
-I have *hours.*
-
-**MECHANIC**
-Then in fourteen days you will have had a coil for thirteen days and twenty —
+Then in two weeks you will have had a coil for thirteen days and twenty —
 
 **KARA**
 *(walking away)*
@@ -1274,6 +1277,11 @@ YOU CAN'T KILL HIM!
 
 Everything stops.
 
+Lobo turns his head, fist still cocked. Slowly. The way continents turn.
+
+**LOBO**
+...'Scuse me?
+
 Ruthye stalks into the yard — thirteen years old, sword out, marching at the Main Man across the killing field like a summons being served.
 
 **RUTHYE** *(cont'd)*
@@ -1305,7 +1313,10 @@ Today's your lucky day. I'm basically done here anyway. So I'm gonna give this t
 
 He hauls Krem up and THROWS him down in front of Ruthye — on his knees, swaying, blood in his teeth.
 
+And Lobo steps back to a comfortable viewing distance, fishing his trademark CIGAR from his vest — lighting it off a burning piece of somebody's ship, settling in. Front row. Ready for a show.
+
 **LOBO** *(cont'd)*
+*(around the cigar)*
 You'll feel great. Trust me.
 
 And here is the scene the whole movie exists for:
@@ -1506,21 +1517,23 @@ The gray thins. Thins. Tatters —
 
 ### 31. EXT. ABOVE THE ATMOSPHERE — THE REBIRTH
 
-— and they BREAK THROUGH into brilliant, blinding YELLOW LIGHT.
+— and the screen goes WHITE.
 
-Movement four of the palette. Held. And held. And held.
+Not Argo's white. The other one: the brilliant, warm light of the SUN, blasting the lens — a mega flare that swallows the whole frame, movement four of the palette. Held. And held. And held.
 
-Lobo banks the bike to a drifting stop in open space. Ruthye's bubble glitters. And Kara —
+Then, slowly, the flare relents — fades down out of the white — and resolves:
 
-Kara's limp form floats free of the rack, adrift in the light. Fetal, curled, small — nothing iconic about it, nothing posed. A hurt person in the sun.
+Lobo, banking the bike to a drifting stop in open space. Ruthye's bubble, glittering. And Kara —
 
-For one terrible moment: nothing.
+Kara's limp form floats free of the rack, adrift in the light. Fetal, curled, small — nothing iconic about it, nothing posed. A hurt person in the sun — and the light is visibly soaking INTO her, the way water leaves a shoreline: absorbed.
 
-Then — a BREATH. Reflexive, enormous, whole-body — the gasp of a swimmer surfacing from too deep. Her body insisting on living, the way her parents insisted she live.
+For one terrible moment: nothing more.
+
+Then — she WAKES from the flashback with a GASP. Reflexive, enormous, whole-body — the gasp of a swimmer surfacing from too deep. Her body insisting on living, the way her parents insisted she live.
 
 The sun does what the sun does. Life insists on itself.
 
-Light seems to soak INTO her. The wound across her body knits, closes, is gone. The gray leaves her skin. Her hair drifts gold in the gold.
+The wound across her body knits, closes, is gone. The gray leaves her skin. Her hair drifts gold in the gold.
 
 And the JACKET — shredded, bloodied, finally too damaged to hold together — slips off her shoulders and drifts away behind her, turning slowly, a shed skin falling toward the dead planet below.
 
