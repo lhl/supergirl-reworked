@@ -239,9 +239,16 @@ The story bible's key rules for evaluating divergences:
 12. **Use Fable climax/ending**, with select GPT dialogue only if it does not puncture the tone.
 13. **Rewrite mid-credits with Clark in person.**
 
+Kara and Ruthye don't find out there's no pickup until they're about to be dropped down to Bilki ont he bus. That's the funny second part of the technically.
+
 ---
 
 ## Watch-outs for the next pass
+
+Don't fall in love with your own dialogue. Things that are better left unsaid... should be.
+Dialogue should reflect the thesis, not monologue it. When we are on the nose, it better be saved because it's IMPORTANT.
+Instead, let's carry the themes and repetitions, repeated metaphors, symbols. The audience should feel it subconsciously.
+Be smart, don't talk down, don't "spell it out."
 
 - Do not let the Argo/Kryptonite backstory confuse the present-day poison plot. Krypto is dying from Brigand poison, not kryptonite.
 - Do not turn Krem into a Supergirl-scale combatant. Full-power Kara can win instantly; the climax is about what she does with that capacity.
