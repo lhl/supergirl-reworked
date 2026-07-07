@@ -678,18 +678,299 @@ This is why it reads like “Fable, but worse”: not because it preserves every
 
 ---
 
+# GPT-5.5 as a counterpoint
+
+`draft-script-gpt5.5.md` is useful because it was generated from the same `README.md` story bible, but it does **not** feel like simply another version of the Fable/GLM pair. It hits the required spine, and it still carries over many direct bible lines, but its scene construction, tone, and problem-solving are visibly different.
+
+That makes it a good control sample. It shows that “same prompt + same detailed bible” does explain a lot of overlap, but it does **not** force every draft to converge as tightly as GLM and Fable do.
+
+## Quick shape comparison
+
+A rough scale check:
+
+| Draft | Approx. words | Scene-heading density | Overall feel |
+|---|---:|---:|---|
+| Fable | ~14.3k | 41 `###` headings | Literary, cinematic, object-driven treatment/screenplay hybrid |
+| GLM-5.2 | ~23.5k | 96 `###` headings | Long, literal, over-sectioned, explanatory |
+| GPT-5.5 | ~7.7k | 31 `###` headings | Brisk, dialogue-forward, conventional screenplay/action-road-trip |
+
+As a secondary check, a quick n-gram scan also supports the manual impression: GLM/Fable share substantially more non-bible long phrase overlap than GPT shares with either of them. But the more important evidence is not the metric; it is how GPT builds scenes differently while obeying the same story spine.
+
+## High-level counterpoint thesis
+
+GPT-5.5 is not “less similar” because it ignores the bible. It is often quite faithful. It is less similar because it **translates** the bible into a different screenplay idiom:
+
+- more banter and playable dialogue;
+- fewer treatment-like thesis sentences;
+- more on-screen causal setup;
+- more odd-couple road-trip texture;
+- more compact scene flow;
+- less reliance on Fable-like object-motif architecture.
+
+So the contrast clarifies the GLM/Fable issue:
+
+> GLM's closeness to Fable is not just “both read the bible.” GPT also read the bible, but it finds noticeably different scene solutions. GLM is unusually close to Fable not only in plot spine, but in treatment register, phrase preservation, and scene-by-scene choreography.
+
+At the same time, GPT also proves the other half of the caution: many exact shared lines are still bible lines, not model-specific fingerprints.
+
+## Scene-by-scene counterpoint
+
+### 1. Cold open
+
+GPT keeps the same essential structure: red farm world, family meal, Krem's polite intrusion, ugly theft, off-ramp, deliberate murder, Ruthye holding/protecting her brother while rage replaces grief.
+
+But its setup feels different from Fable and GLM:
+
+- It opens with a **polite knock**, not Fable's ship landing in the fields or GLM's more segmented homestead sequence.
+- It uses generic **FATHER / MOTHER / BROTHER**, like GLM, rather than Fable's Andy / Marye / Tomme specificity.
+- Krem gives a more direct geopolitical monologue: merchants, advisers, soft-handed men, and an accusation that Ruthye's people traded with the people who destroyed Bilki.
+- The stolen family weapon is an old rifle / weapon rather than Fable's carefully integrated crossbow.
+
+This makes GPT less mythic and less object-driven than Fable. But it is also less confused than GLM: the scene is short, clear, and playable.
+
+**Counterpoint value:** GPT shares the bible's opening argument, but not Fable's best craft solution. Its cold open is closer to GLM in generic family labeling, yet its pacing and dialogue are its own.
+
+### 2. Kara's morning
+
+GPT's Kara intro is much more conventional-screenplay than Fable's:
+
+- nightmare fragments;
+- bottle before fully awake;
+- red sun through the porthole;
+- Clark voicemail;
+- Krypto as moral witness;
+- jacket as armor.
+
+But GPT mostly **shows** the avoidance rather than preserving the bible/Fable sentence “Avoidance isn't something that happened to her...” This is a useful distinction. Fable and GLM often retain the bible's literary explanatory register; GPT tends to convert it into action and dialogue.
+
+Clark's message is shorter than Fable's Ma/Lois/cake version and less generic than GLM's. Crucially, GPT pays it off in the mid-credits by having Kara call him.
+
+### 3. Port setup and first meeting
+
+This is one of GPT's biggest structural divergences.
+
+Fable and GLM introduce Ruthye primarily through the bar encounter, with the drive core revealed in conversation. GPT instead gives Ruthye an **on-screen pre-bar heist**:
+
+- Krem's ship is stuck in port bureaucracy/customs trouble.
+- Ruthye sneaks under the fuel gantry.
+- She physically steals the drive core before we ever see her ask Kara for help.
+- The theft is not just backstory; it is an action beat that proves Ruthye's competence.
+
+This changes the feel of the first act. Ruthye is less “child walking into a bar with a quest” and more “small, serious saboteur already in motion.” It also makes the bar scene more causally active: Krem arrives because the core and tracker situation has already been dramatized.
+
+Kara is also staged differently: GPT puts her **alone in a booth**, with Krypto under the table, rather than at the bar in the more Fable/GLM configuration. That better externalizes avoidance.
+
+Tone is different too. GPT leans into banter:
+
+- “Are you the strongest person here?” / “Depends what time it is.”
+- “Then I will hire the dog.”
+- “You stole a Brigand drive core.” / “Yes.” / “That is... profoundly stupid.” / “It worked.”
+
+This is not the same flavor as Fable's formal “strongest arm” scene, and not GLM's longer explanatory version. It is a brisk odd-couple screenplay version.
+
+### 4. Krypto poisoning / ship failure
+
+GPT is much closer to Fable's power logic than GLM's.
+
+It does **not** add GLM's artificial yellow-sun emitter, over-numeric countdown, or partial mini-rebirth. It keeps the pressure emotional and physical:
+
+- ship medbay can identify poison but not synthesize antidote;
+- yellow sun is an attempted desperate solution;
+- the ship breaks before reaching it;
+- they are forced to the rest stop.
+
+GPT adds a distinct Ruthye competence beat: she helps hold a pressure valve, improvises with a strap, and participates in keeping the medbay stable. That is not just logistics; it reframes Kara/Ruthye as a practical team earlier than Fable or GLM do.
+
+**Counterpoint value:** Same story function, different scene engine. GLM adds gadget/math complication. GPT adds character-action collaboration.
+
+### 5. Rest stop
+
+GPT's rest stop is not as richly named/specified as Fable's Oasis Station, but it has its own comedy rhythm:
+
+- repair mechanic: “Regrow it.” / “Regrow.”
+- “Then I will restrain it emotionally.”
+- food-skewer joke: “If it whistles, don't bite the end with eyes.” / “It whistled.” / “Good. Fresh.”
+- public transit absurdity: “personal atmosphere subscriptions will experience priority continuity.”
+
+GLM also spends time at the rest stop, but GLM often feels like it is walking through required stations of the treatment. GPT's rest-stop material feels more like a dialogue-forward road comedy built from the same ingredients.
+
+GPT also adds an efficient relational beat at Krypto's tube:
+
+- Ruthye asks who Clark is.
+- Kara says “Family.”
+- Ruthye asks whether he waits too.
+- Kara admits she does not go to him.
+
+That makes Ruthye's “go home” mirror explicit without turning into a long thesis paragraph.
+
+### 6. Bus confession
+
+GPT's bus confession has a different moral shape from Fable/GLM.
+
+Fable's best line is mythic and compressed: “He inherited a dead world. I attended mine.” GLM expands the grief history into more literal confession. GPT frames the ethics more conversationally:
+
+- “Sometimes being right has nothing to do with what it leaves in you.”
+- “In a fight, when someone is coming for a life, you stop them.”
+- “The moment after. When they cannot hurt anyone and you still want to make them pay. The cold part.”
+
+This is a distinct moral formulation. It is less poetic than Fable, but arguably more directly playable as dialogue. It also clarifies the final Krem choice: the issue is not whether violence is ever allowed; it is whether Ruthye kills from the cold after-threat place.
+
+### 7. Bilki approach and gauntlet
+
+GPT makes Bilki more concretely inhabited-before-death:
+
+- a schoolyard under ash;
+- a transit sign still showing trains that will never come;
+- a mural of Bilki before winter: oceans, towers, children with painted hands.
+
+That is different from Fable's more image-poetic Yellow Hills echo and GLM's more tactical dead-world traversal. GPT's Bilki feels like a set with readable human remnants.
+
+GPT also adds a strong addiction beat:
+
+- Kara reaches for the flask by muscle memory.
+- Ruthye says, “No. Not here.”
+- Kara drops the flask into the ash.
+
+This is a clean screenplay action. Fable has the stronger overall jacket/glass motif, but GPT finds a blunt, filmable addiction beat that GLM does not match.
+
+The gauntlet also becomes reciprocal action-comedy:
+
+- Kara protects Ruthye from a perimeter gun.
+- Ruthye insists she can reach the hinge.
+- Kara takes the bullets long enough for Ruthye to cut the servo.
+- Kara: “You're very hinge-aware. Move.”
+
+That is very GPT-5.5 in tone: grief/action stakes filtered through banter and teamwork.
+
+### 8. Lobo
+
+GPT necessarily converges with Fable/GLM here because the bible's Lobo sequence is extremely specific. It still has:
+
+- Lobo's effortless carnage;
+- the glorious truck-lift image curdling into horror;
+- “Please” / “You're welcome”; 
+- Ruthye invoking code;
+- Lobo respecting code;
+- “You'll feel great. Trust me”; 
+- Kara stepping into the blade;
+- “That's my code”; 
+- Ruthye forcing Lobo to take them to the sun.
+
+But GPT's execution is notably less treatment-like. It does not linger in the bible/Fable phrasing about “the most powerful being in the scene” or “no fight, no moral anguish, no cost.” It renders the set piece as quicker action and dialogue.
+
+That is the counterpoint in miniature: same required mechanism, different adaptation register.
+
+### 9. Yellow-sun rebirth
+
+GPT's rebirth is much shorter than Fable's and less metaphorically elaborated than GLM's:
+
+- Lobo's bike breaks through the dead sky.
+- Kara floats in yellow light.
+- wound closes, bruises fade.
+- jacket slips away.
+- Ruthye cries in the bubble.
+- Lobo cannot handle feelings.
+- Kara flies for the first time.
+
+It keeps the bible's core imagery but does not dwell on the glass/barrier motif the way Fable does, and does not state the metaphor the way GLM does.
+
+This makes the moment less grand than Fable's version but cleaner than GLM's.
+
+### 10. Climax
+
+GPT avoids several GLM confusions:
+
+- no artificial-yellow-light setup to muddy the later rebirth;
+- no bubble-suit retraction continuity problem;
+- no birthday contradiction;
+- Clark is paid off later.
+
+Its final weapon mechanics are also more legible than GLM's. Krem has a huge energy weapon with a **poison bow assembly** built in. Kara plucks the arrow from the air, sees the antidote, and smashes the bow away. This is not as elegant as Fable's father's-crossbow object chain, but it is more tactile and coherent than GLM's wobbling cannon/harness/energy-bolt sequence.
+
+GPT also adds an interesting post-choice exchange in the stolen shuttle:
+
+- Ruthye asks whether Krem will live.
+- Kara says she does not know.
+- Ruthye asks whether Kara cares.
+- Kara says, “Not enough to turn around.”
+
+That is a different tonal endpoint from Fable's more mythic “the story was never about him.” GPT's version is more grounded and morally unsentimental.
+
+### 11. Ending and mid-credits
+
+GPT's ending is a direct counterexample to GLM's clearest confusion.
+
+GLM wants Ruthye to both stay home and go on the birthday flight, and accidentally stages both. GPT resolves the tension cleanly:
+
+1. Ruthye says she wishes she could go with Kara but recognizes she has home/family.
+2. Kara reframes the flight as finishing the birthday, not abandoning home.
+3. Kara explicitly tells Mother they will be back tonight / tomorrow.
+4. Ruthye runs up the ramp.
+5. The final image is Ruthye laughing in the cockpit.
+
+That is essentially the intended bible/Fable payoff, executed in GPT's lighter comic rhythm.
+
+GPT also pays off Clark in the mid-credits: Kara sees his name, calls, and says she may stick around. This is the structural closure GLM misses.
+
+## What GPT-5.5 proves about the GLM/Fable comparison
+
+GPT is important because it separates three different kinds of similarity:
+
+| Similarity type | What GPT shows |
+|---|---|
+| **Bible-required plot spine** | All drafts will share this. GPT does too. Not meaningful by itself. |
+| **Direct bible phrase carry-over** | GPT still uses many required lines. Exact line overlap alone is not evidence of Fable-specific similarity. |
+| **Scene solution / adaptation personality** | GPT diverges much more than GLM: on-screen drive-core heist, booth staging, ship-valve teamwork, flask dropped into Bilki ash, hinge-action beat, shorter Lobo/rebirth handling. |
+| **Treatment register** | GPT is much less like Fable/GLM here. It is more dialogue-forward and less literary. This makes GLM's Fable-like explanatory/literary register stand out. |
+| **Mechanical coherence** | GPT generally avoids GLM's biggest confusions, even when it is less elegant than Fable. |
+
+So GPT sharpens the conclusion:
+
+- The bible explains the **shared spine**.
+- The bible explains many **exact repeated lines**.
+- But the bible does not force the drafts to share the same **adaptation texture**.
+- GPT demonstrates a different adaptation texture.
+- GLM, by contrast, often feels like it is tracking the same Fable/bible treatment surface with less craft and more confusion.
+
+## GPT-5.5's own weaknesses
+
+The counterpoint is not that GPT is simply better than GLM or Fable. It has its own issues:
+
+- It is much shorter, so some emotional beats breathe less.
+- Its banter can verge on too cute for the bleakness of the material.
+- Like GLM, it loses Fable's strongest crossbow object-chain.
+- The generic family labels make the cold open less textured than Fable's Knoll-family version.
+- Krem's cold-open exposition is more direct and less eerie than Fable's controlled menace.
+- The final repaired-ship / salvaged-drive beat is still abrupt, though not as confusing as GLM's.
+
+But it is coherent. Its changes generally read as adaptation choices rather than misunderstandings.
+
+## Counterpoint bottom line
+
+GPT-5.5 is useful because it is a **same-bible, different-personality** draft.
+
+It proves that a model can follow the same detailed source and still produce a script that feels materially different in tone, scene setup, and dialogue engine. That makes the GLM/Fable closeness more notable, not less — especially their shared treatment-like register and scene-by-scene choreography.
+
+At the same time, GPT reinforces the need for the source audit: any exact phrase or required beat must still be checked against `README.md` before treating it as evidence of model-to-model similarity.
+
+---
+
 # Bottom line
 
-The careful read changes the conclusion slightly:
+The careful read changes the conclusion slightly, and the GPT-5.5 counterpoint sharpens it:
 
 - **Yes**, GLM and Fable are strikingly similar in structure, scenario order, emotional beat design, and many turns of phrase.
 - **But** much of that similarity is best explained by the shared `README.md`, which is itself highly specific and phrase-rich.
-- The real qualitative difference is execution: **Fable makes the story feel inevitable; GLM makes it feel explained.**
+- **However**, GPT-5.5 shows that the same prompt/bible can still produce a draft with a very different adaptation personality: brisker, more dialogue-forward, more conventionally screenplay-shaped, and built around different scene solutions.
+- So the real qualitative difference is execution and adaptation texture: **Fable makes the story feel inevitable; GLM makes it feel explained; GPT makes it feel like a brisk action-road-trip screenplay.**
 - GLM's most useful contribution is clarity and completeness; its biggest liability is confusion around mechanics/payoffs, especially the artificial-yellow-light beat, the final weapon, the birthday ending, and the missing Clark payoff.
+- GPT-5.5 is not as artful as Fable, but its coherence makes it a useful counterexample: different does not have to mean confused.
 
 If mining GLM for a future pass, I would not treat it as a source of new structure. Its structure is essentially the same. I would use it mainly as a checklist for:
 
 1. places where Fable's compressed version may need a little more causal clarity, and
 2. places where a model can accidentally misunderstand the bible, so the next draft should be explicit in the right way.
 
-The Fable draft remains the stronger artistic execution; GLM is useful mostly because its mistakes reveal which story mechanics are fragile.
+If mining GPT-5.5, I would look less for structure and more for filmable connective tissue: the on-screen drive-core heist, Kara/Ruthye ship-valve teamwork, the flask dropped into Bilki ash, the hinge-action beat, and the cleaner birthday/Clark payoffs.
+
+The Fable draft remains the stronger artistic execution; GLM is useful mostly because its mistakes reveal which story mechanics are fragile; GPT-5.5 is useful because its different-but-coherent choices prove how much room the bible still leaves for adaptation.
