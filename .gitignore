@@ -1,0 +1,4 @@
+# Local agent/tooling state
+.pi/
+.claude/
+.codex/
